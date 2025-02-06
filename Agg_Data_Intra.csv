@@ -1,0 +1,330 @@
+date,focal,act,partner,focgroup,prtgroup,focsex,prtsex,dyadtype,group.combo,behav,direction,period,winner,loser,Intensity,id1,id2,Dyad,Obs.effort,outcome,rval,RankDiff,winner.group,loser.group,win,s1,d1,s2,d2,relative.size
+11/14/13,ux,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Stable,ob,ux,0,ux,ob,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+11/18/13,oo,dc1,ux,PHG,PHG,F,F,FF,same,dc,1,Stable,oo,ux,1,oo,ux,oo_ux,4440,split apart,0,0.648224337,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+11/18/13,oo,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,oo,ux,0,oo,ux,oo_ux,4440,split apart,0,0.648224337,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+11/26/13,tr,dt1,oy,PHG,PHG,F,F,FF,same,dt,1,Stable,tr,oy,0,tr,oy,oy_tr,4395,split apart,0,0.653324147,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/26/13,tr,dt2,oy,PHG,PHG,F,F,FF,same,dt,2,Stable,oy,tr,0,tr,oy,oy_tr,4395,split apart,0,0.653324147,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+11/29/13,oa,dd2,bf,PHG,PHG,F,F,FF,same,dd,2,Stable,bf,oa,0,oa,bf,bf_oa,4380,split apart,0,0.330566213,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+12/3/13,fd,dd1,oo,PHG,PHG,F,F,FF,same,dd,1,Stable,fd,oo,0,fd,oo,fd_oo,4395,split apart,0,0.246412751,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+12/3/13,oa,dd1,uz,PHG,PHG,F,F,FF,same,dd,1,Stable,oa,uz,0,oa,uz,oa_uz,4440,split apart,0,0.356265633,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+12/3/13,uz,dd2,ob,PHG,PHG,F,F,FF,same,dd,2,Stable,ob,uz,0,uz,ob,ob_uz,4440,split apart,0,0.122721893,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+12/5/13,fx,dt1,tr,PHG,PHG,F,F,FF,same,dt,1,Stable,fx,tr,0,fx,tr,fx_tr,4515,split apart,0,0.140330957,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+12/5/13,ob,db1,ux,PHG,PHG,F,F,FF,same,db,1,Stable,ob,ux,0,ob,ux,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+12/5/13,ob,dc1,ux,PHG,PHG,F,F,FF,same,dc,1,Stable,ob,ux,1,ob,ux,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+12/5/13,oo,dp2,bf,PHG,PHG,F,F,FF,same,dp,2,Stable,bf,oo,0,oo,bf,bf_oo,4410,split apart,0,0.351775663,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+12/5/13,oo,dt2,bf,PHG,PHG,F,F,FF,same,dt,2,Stable,bf,oo,0,oo,bf,bf_oo,4410,split apart,0,0.351775663,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+12/5/13,ug,dc2,oo,PHG,PHG,F,F,FF,same,dc,2,Stable,oo,ug,1,ug,oo,oo_ug,4410,split apart,0,0.45100033,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+12/5/13,ug,dt2,oo,PHG,PHG,F,F,FF,same,dt,2,Stable,oo,ug,0,ug,oo,oo_ug,4410,split apart,0,0.45100033,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+12/10/13,ob,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ob,ux,0,ob,ux,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+12/10/13,oo,dn2,oy,PHG,PHG,F,F,FF,same,dn,2,Stable,oy,oo,0,oo,oy,oo_oy,4320,split apart,0,0.617912595,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+12/12/13,ty,dp1,ux,PHG,PHG,F,F,FF,same,dp,1,Stable,ty,ux,0,ty,ux,ty_ux,4380,split apart,0,0.399019603,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+1/14/14,oo,dp2,fx,PHG,PHG,F,F,FF,same,dp,2,Stable,fx,oo,0,oo,fx,fx_oo,4440,split apart,0,0.175742509,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+1/14/14,oo,dt2,fx,PHG,PHG,F,F,FF,same,dt,2,Stable,fx,oo,0,oo,fx,fx_oo,4440,split apart,0,0.175742509,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+1/20/14,oy,dn1,ux,PHG,PHG,F,F,FF,same,dn,1,Stable,oy,ux,0,oy,ux,oy_ux,4380,split apart,0,0.030311742,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+1/20/14,un,dn2,ob,PHG,PHG,F,F,FF,same,dn,2,Stable,ob,un,0,un,ob,ob_un,4365,split apart,0,0.334908064,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+1/20/14,un,dp2,ob,PHG,PHG,F,F,FF,same,dp,2,Stable,ob,un,0,un,ob,ob_un,4365,split apart,0,0.334908064,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+1/22/14,ob,dp1,ux,PHG,PHG,F,F,FF,same,dp,1,Stable,ob,ux,0,ob,ux,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+1/22/14,ob,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ob,ux,0,ob,ux,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+1/24/14,oa,dd1,un,PHG,PHG,F,F,FF,same,dd,1,Stable,oa,un,0,oa,un,oa_un,4365,split apart,0,0.568451803,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+1/24/14,oa,dn1,oy,PHG,PHG,F,F,FF,same,dn,1,Stable,oa,oy,0,oa,oy,oa_oy,4290,split apart,0.5,0.639122045,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+1/24/14,oa,dt1,oy,PHG,PHG,F,F,FF,same,dt,1,Stable,oa,oy,0,oa,oy,oa_oy,4290,split apart,0.5,0.639122045,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+2/3/14,ty,dp1,ux,PHG,PHG,F,F,FF,same,dp,1,Stable,ty,ux,0,ty,ux,ty_ux,4380,split apart,0,0.399019603,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+2/8/14,oa,dd1,un,PHG,PHG,F,F,FF,same,dd,1,Stable,oa,un,0,oa,un,oa_un,4365,split apart,0,0.568451803,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+2/8/14,ux,dd2,dz,PHG,PHG,F,F,FF,same,dd,2,Stable,dz,ux,0,ux,dz,dz_ux,4470,split apart,0,0.753296604,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+2/13/14,oo,dd1,oy,PHG,PHG,F,F,FF,same,dd,1,Stable,oo,oy,0,oo,oy,oo_oy,4320,split apart,0,0.617912595,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+2/13/14,ux,dn2,ob,PHG,PHG,F,F,FF,same,dn,2,Stable,ob,ux,0,ux,ob,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+2/13/14,ux,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Stable,ob,ux,0,ux,ob,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+2/17/14,oy,dn1,oa,PHG,PHG,F,F,FF,same,dn,1,Stable,oy,oa,0,oy,oa,oa_oy,4290,split apart,0.5,0.639122045,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+2/17/14,oy,dt1,oa,PHG,PHG,F,F,FF,same,dt,1,Stable,oy,oa,0,oy,oa,oa_oy,4290,split apart,0.5,0.639122045,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+2/17/14,ug,dd2,tr,PHG,PHG,F,F,FF,same,dd,2,Stable,tr,ug,0,ug,tr,tr_ug,4485,split apart,0,0.486411882,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+2/28/14,fx,dt1,oa,PHG,PHG,F,F,FF,same,dt,1,Stable,fx,oa,0,fx,oa,fx_oa,4410,split apart,0,0.154533059,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+2/28/14,oy,dn2,ob,PHG,PHG,F,F,FF,same,dn,2,Stable,ob,oy,0,oy,ob,ob_oy,4290,split apart,0.25,0.405578306,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+2/28/14,oy,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Stable,ob,oy,0,oy,ob,ob_oy,4290,split apart,0.25,0.405578306,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+2/28/14,ur,dd1,ux,PHG,PHG,F,F,FF,same,dd,1,Stable,ur,ux,0,ur,ux,ur_ux,4455,split apart,0,0.484446734,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+3/3/14,fx,dd1,oa,PHG,PHG,F,F,FF,same,dd,1,Stable,fx,oa,0,fx,oa,fx_oa,4410,split apart,0,0.154533059,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+3/3/14,fx,dt1,oa,PHG,PHG,F,F,FF,same,dt,1,Stable,fx,oa,0,fx,oa,fx_oa,4410,split apart,0,0.154533059,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+3/3/14,fx,dt1,tr,PHG,PHG,F,F,FF,same,dt,1,Stable,fx,tr,0,fx,tr,fx_tr,4515,split apart,0,0.140330957,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+3/3/14,tr,dp1,oy,PHG,PHG,F,F,FF,same,dp,1,Stable,tr,oy,0,tr,oy,oy_tr,4395,split apart,0,0.653324147,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+3/3/14,tr,dt1,oy,PHG,PHG,F,F,FF,same,dt,1,Stable,tr,oy,0,tr,oy,oy_tr,4395,split apart,0,0.653324147,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+3/3/14,tr,dt2,oy,PHG,PHG,F,F,FF,same,dt,2,Stable,oy,tr,0,tr,oy,oy_tr,4395,split apart,0,0.653324147,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+3/5/14,ux,dp2,fx,PHG,PHG,F,F,FF,same,dp,2,Stable,fx,ux,0,ux,fx,fx_ux,4500,split apart,0,0.823966846,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+3/7/14,ux,dn2,ob,PHG,PHG,F,F,FF,same,dn,2,Stable,ob,ux,0,ux,ob,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+3/15/14,ur,dp1,oo,PHG,PHG,F,F,FF,same,dp,1,Stable,ur,oo,0,ur,oo,oo_ur,4395,split apart,0,0.163777603,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+3/15/14,ur,dt1,oo,PHG,PHG,F,F,FF,same,dt,1,Stable,ur,oo,0,ur,oo,oo_ur,4395,split apart,0,0.163777603,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+3/20/14,tr,dn1,oy,PHG,PHG,F,F,FF,same,dn,1,Stable,tr,oy,0,tr,oy,oy_tr,4395,split apart,0,0.653324147,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+3/20/14,tr,dt1,oy,PHG,PHG,F,F,FF,same,dt,1,Stable,tr,oy,0,tr,oy,oy_tr,4395,split apart,0,0.653324147,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+3/24/14,oa,dd1,ur,PHG,PHG,F,F,FF,same,dd,1,Stable,oa,ur,0,oa,ur,oa_ur,4365,split apart,0,0.184987053,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+4/7/14,oa,dt1,dz,PHG,PHG,F,F,FF,same,dt,1,Stable,oa,dz,0,oa,dz,dz_oa,4380,split apart,0,0.083862817,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+4/7/14,ug,dc1,ux,PHG,PHG,F,F,FF,same,dc,1,Stable,ug,ux,1,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ug,ux,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ug,ux,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ug,ux,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ug,ux,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ug,ux,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ug,ux,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ug,ux,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ug,ux,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt2,ux,PHG,PHG,F,F,FF,same,dt,2,Stable,ux,ug,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,0,PHG,PHG,PHG,ENK,remainer
+4/7/14,ug,dt2,ux,PHG,PHG,F,F,FF,same,dt,2,Stable,ux,ug,0,ug,ux,ug_ux,4470,split apart,0.0625,0.197224007,PHG,PHG,0,PHG,PHG,PHG,ENK,remainer
+4/9/14,ux,dd2,bf,PHG,PHG,F,F,FF,same,dd,2,Stable,bf,ux,0,ux,bf,bf_ux,4470,split apart,0,1,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+4/11/14,ug,dd2,oo,PHG,PHG,F,F,FF,same,dd,2,Stable,oo,ug,0,ug,oo,oo_ug,4410,split apart,0,0.45100033,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+4/11/14,uj,dn1,ux,PHG,PHG,F,F,FF,same,dn,1,Stable,uj,ux,0,uj,ux,uj_ux,3030,split apart,0.0625,0.254380789,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/11/14,uj,dp1,ux,PHG,PHG,F,F,FF,same,dp,1,Stable,uj,ux,0,uj,ux,uj_ux,3030,split apart,0.0625,0.254380789,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+4/16/14,ux,dt2,fx,PHG,PHG,F,F,FF,same,dt,2,Stable,fx,ux,0,ux,fx,fx_ux,4500,split apart,0,0.823966846,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+4/17/14,ur,dt2,tr,PHG,PHG,F,F,FF,same,dt,2,Stable,tr,ur,0,ur,tr,tr_ur,4470,split apart,0,0.199189155,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+4/22/14,oy,dn1,ob,PHG,PHG,F,F,FF,same,dn,1,Stable,oy,ob,0,oy,ob,ob_oy,4290,split apart,0.25,0.405578306,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+4/22/14,oy,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Stable,ob,oy,0,oy,ob,ob_oy,4290,split apart,0.25,0.405578306,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+4/22/14,ug,db2,ob,PHG,PHG,F,F,FF,same,db,2,Stable,ob,ug,0,ug,ob,ob_ug,4380,split apart,0,0.23866604,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+4/24/14,oo,dc1,un,PHG,PHG,F,F,FF,same,dc,1,Stable,oo,un,1,oo,un,oo_un,4395,split apart,0,0.547242353,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+4/24/14,ur,dn2,ob,PHG,PHG,F,F,FF,same,dn,2,Stable,ob,ur,0,ur,ob,ob_ur,4365,split apart,0,0.048556686,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+4/24/14,ux,db2,ob,PHG,PHG,F,F,FF,same,db,2,Stable,ob,ux,0,ux,ob,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+4/30/14,oy,dp2,ob,PHG,PHG,F,F,FF,same,dp,2,Stable,ob,oy,0,oy,ob,ob_oy,4290,split apart,0.25,0.405578306,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+4/30/14,oy,dt2,oa,PHG,PHG,F,F,FF,same,dt,2,Stable,oa,oy,0,oy,oa,oa_oy,4290,split apart,0.5,0.639122045,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+5/1/14,oa,dc2,dz,PHG,PHG,F,F,FF,same,dc,2,Stable,dz,oa,1,oa,dz,dz_oa,4380,split apart,0,0.083862817,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+5/9/14,oa,dt1,ug,PHG,PHG,F,F,FF,same,dt,1,Stable,oa,ug,0,oa,ug,oa_ug,4380,split apart,0,0.47220978,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/16/14,fx,dd1,ux,PHG,PHG,F,F,FF,same,dd,1,Stable,fx,ux,0,fx,ux,fx_ux,4500,split apart,0,0.823966846,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+5/19/14,ux,dd2,oo,PHG,PHG,F,F,FF,same,dd,2,Stable,oo,ux,0,ux,oo,oo_ux,4440,split apart,0,0.648224337,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+5/24/14,tr,dd1,un,PHG,PHG,F,F,FF,same,dd,1,Stable,tr,un,0,tr,un,tr_un,4470,split apart,0,0.582653905,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/24/14,tr,dp1,un,PHG,PHG,F,F,FF,same,dp,1,Stable,tr,un,0,tr,un,tr_un,4470,split apart,0,0.582653905,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/24/14,ux,dd2,ob,PHG,PHG,F,F,FF,same,dd,2,Stable,ob,ux,0,ux,ob,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+5/27/14,ob,dd2,fx,PHG,PHG,F,F,FF,same,dd,2,Stable,fx,ob,0,ob,fx,fx_ob,4410,split apart,0,0.388076799,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+5/30/14,bf,dd1,oo,PHG,PHG,F,F,FF,same,dd,1,Stable,bf,oo,0,bf,oo,bf_oo,4410,split apart,0,0.351775663,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+5/30/14,oa,dc1,un,PHG,PHG,F,F,FF,same,dc,1,Stable,oa,un,1,oa,un,oa_un,4365,split apart,0,0.568451803,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/30/14,oy,dn1,oo,PHG,PHG,F,F,FF,same,dn,1,Stable,oy,oo,0,oy,oo,oo_oy,4320,split apart,0,0.617912595,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/2/14,bf,dd1,oa,PHG,PHG,F,F,FF,same,dd,1,Stable,bf,oa,0,bf,oa,bf_oa,4380,split apart,0,0.330566213,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/2/14,bf,dd1,oo,PHG,PHG,F,F,FF,same,dd,1,Stable,bf,oo,0,bf,oo,bf_oo,4410,split apart,0,0.351775663,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/5/14,ob,dn1,ug,PHG,PHG,F,F,FF,same,dn,1,Stable,ob,ug,0,ob,ug,ob_ug,4380,split apart,0,0.23866604,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+6/5/14,ob,dt1,ug,PHG,PHG,F,F,FF,same,dt,1,Stable,ob,ug,0,ob,ug,ob_ug,4380,split apart,0,0.23866604,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+6/16/14,ty,dd1,oa,PHG,PHG,F,F,FF,same,dd,1,Stable,ty,oa,0,ty,oa,oa_ty,4290,split apart,0,0.270414184,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/17/14,oo,dd2,dz,PHG,PHG,F,F,FF,same,dd,2,Stable,dz,oo,0,oo,dz,dz_oo,4410,split apart,0,0.105072267,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+6/17/14,oo,dp1,ur,PHG,PHG,F,F,FF,same,dp,1,Stable,oo,ur,0,oo,ur,oo_ur,4395,split apart,0,0.163777603,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+6/17/14,oo,dt1,ur,PHG,PHG,F,F,FF,same,dt,1,Stable,oo,ur,0,oo,ur,oo_ur,4395,split apart,0,0.163777603,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+6/17/14,ur,dt2,oa,PHG,PHG,F,F,FF,same,dt,2,Stable,oa,ur,0,ur,oa,oa_ur,4365,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/30/14,ux,dp2,ob,PHG,PHG,F,F,FF,same,dp,2,Stable,ob,ux,0,ux,ob,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+6/30/14,ux,dp2,un,PHG,PHG,F,F,FF,same,dp,2,Stable,un,ux,0,ux,un,un_ux,4455,split apart,0,0.100981984,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+7/3/14,oa,dc1,ux,PHG,PHG,F,F,FF,same,dc,1,Stable,oa,ux,1,oa,ux,oa_ux,4410,split apart,0,0.669433787,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+7/3/14,ug,dd2,oa,PHG,PHG,F,F,FF,same,dd,2,Stable,oa,ug,0,ug,oa,oa_ug,4380,split apart,0,0.47220978,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+7/28/14,fx,dp1,oo,PHG,PHG,F,F,FF,same,dp,1,Stable,fx,oo,0,fx,oo,fx_oo,4440,split apart,0,0.175742509,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+7/28/14,fx,dt1,oo,PHG,PHG,F,F,FF,same,dt,1,Stable,fx,oo,0,fx,oo,fx_oo,4440,split apart,0,0.175742509,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+8/18/14,o6,dt2,ux,PHG,PHG,F,F,FF,same,dt,2,Stable,ux,o6,0,o6,ux,o6_ux,1755,split apart,0,0.144358455,PHG,PHG,0,PHG,YNT,PHG,ENK,leaver
+8/20/14,ur,dt2,o6,PHG,PHG,F,F,FF,same,dt,2,Stable,o6,ur,0,ur,o6,o6_ur,1755,split apart,0,0.340088279,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/1/14,ob,dd2,bf,PHG,PHG,F,F,FF,same,dd,2,Stable,bf,ob,0,ob,bf,bf_ob,4380,split apart,0,0.564109953,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+9/1/14,ur,dt2,o6,PHG,PHG,F,F,FF,same,dt,2,Stable,o6,ur,0,ur,o6,o6_ur,1755,split apart,0,0.340088279,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/2/14,oo,dc1,un,PHG,PHG,F,F,FF,same,dc,1,Stable,oo,un,1,oo,un,oo_un,4395,split apart,0,0.547242353,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+9/4/14,fd,dd1,ux,PHG,PHG,F,F,FF,same,dd,1,Stable,fd,ux,0,fd,ux,fd_ux,4455,split apart,0,0.894637088,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+9/10/14,dz,dd1,o6,PHG,PHG,F,F,FF,same,dd,1,Stable,dz,o6,0,dz,o6,dz_o6,1770,split apart,0,0.60893815,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+9/10/14,oo,dd2,bf,PHG,PHG,F,F,FF,same,dd,2,Stable,bf,oo,0,oo,bf,bf_oo,4410,split apart,0,0.351775663,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+9/10/14,uj,dc2,ob,PHG,PHG,F,F,FF,same,dc,2,Stable,ob,uj,1,uj,ob,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/10/14,uj,dc2,ob,PHG,PHG,F,F,FF,same,dc,2,Stable,ob,uj,1,uj,ob,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/10/14,uj,dp2,ob,PHG,PHG,F,F,FF,same,dp,2,Stable,ob,uj,0,uj,ob,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/10/14,uj,dp2,ob,PHG,PHG,F,F,FF,same,dp,2,Stable,ob,uj,0,uj,ob,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/10/14,uj,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Stable,ob,uj,0,uj,ob,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/10/14,uj,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Stable,ob,uj,0,uj,ob,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/10/14,uj,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Stable,ob,uj,0,uj,ob,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/10/14,uj,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Stable,ob,uj,0,uj,ob,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/11/14,oa,dt1,bf,PHG,PHG,F,F,FF,same,dt,1,Stable,oa,bf,0,oa,bf,bf_oa,4380,split apart,0,0.330566213,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+9/16/14,ux,dd2,fx,PHG,PHG,F,F,FF,same,dd,2,Stable,fx,ux,0,ux,fx,fx_ux,4500,split apart,0,0.823966846,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+9/16/14,ux,dt1,o6,PHG,PHG,F,F,FF,same,dt,1,Stable,ux,o6,0,ux,o6,o6_ux,1755,split apart,0,0.144358455,PHG,PHG,1,PHG,ENK,PHG,YNT,remainer
+9/16/14,uz,dd2,oa,PHG,PHG,F,F,FF,same,dd,2,Stable,oa,uz,0,uz,oa,oa_uz,4440,split apart,0,0.356265633,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/18/14,ux,dp2,oy,PHG,PHG,F,F,FF,same,dp,2,Stable,oy,ux,0,ux,oy,oy_ux,4380,split apart,0,0.030311742,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+9/18/14,ux,dt2,oy,PHG,PHG,F,F,FF,same,dt,2,Stable,oy,ux,0,ux,oy,oy_ux,4380,split apart,0,0.030311742,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+9/24/14,o6,dp1,ur,PHG,PHG,F,F,FF,same,dp,1,Stable,o6,ur,0,o6,ur,o6_ur,1755,split apart,0,0.340088279,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+9/25/14,tr,dt1,ug,PHG,PHG,F,F,FF,same,dt,1,Stable,tr,ug,0,tr,ug,tr_ug,4485,split apart,0,0.486411882,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+10/6/14,o6,db1,ux,PHG,PHG,F,F,FF,same,db,1,Stable,o6,ux,0,o6,ux,o6_ux,1755,split apart,0,0.144358455,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+10/6/14,o6,dp1,ux,PHG,PHG,F,F,FF,same,dp,1,Stable,o6,ux,0,o6,ux,o6_ux,1755,split apart,0,0.144358455,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+10/6/14,ur,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Stable,ob,ur,0,ur,ob,ob_ur,4365,split apart,0,0.048556686,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+10/7/14,ob,dp2,fd,PHG,PHG,F,F,FF,same,dp,2,Stable,fd,ob,0,ob,fd,fd_ob,4365,split apart,0,0.458747041,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+10/8/14,ur,dt2,oa,PHG,PHG,F,F,FF,same,dt,2,Stable,oa,ur,0,ur,oa,oa_ur,4365,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+10/9/14,ob,dt2,bf,PHG,PHG,F,F,FF,same,dt,2,Stable,bf,ob,0,ob,bf,bf_ob,4380,split apart,0,0.564109953,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+10/18/14,dz,dt1,o6,PHG,PHG,F,F,FF,same,dt,1,Stable,dz,o6,0,dz,o6,dz_o6,1770,split apart,0,0.60893815,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+10/18/14,oa,dd2,fd,PHG,PHG,F,F,FF,same,dd,2,Stable,fd,oa,0,oa,fd,fd_oa,4365,split apart,0,0.225203301,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+10/18/14,ob,dt1,ux,PHG,PHG,F,F,FF,same,dt,1,Stable,ob,ux,0,ob,ux,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+10/18/14,ob,dt2,ux,PHG,PHG,F,F,FF,same,dt,2,Stable,ux,ob,0,ob,ux,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,0,PHG,YNT,PHG,ENK,leaver
+10/21/14,fd,dn2,ux,PHG,PHG,F,F,FF,same,dn,2,Stable,ux,fd,0,fd,ux,fd_ux,4455,split apart,0,0.894637088,PHG,PHG,0,PHG,PHG,PHG,ENK,remainer
+10/21/14,ux,dp2,o6,PHG,PHG,F,F,FF,same,dp,2,Stable,o6,ux,0,ux,o6,o6_ux,1755,split apart,0,0.144358455,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+10/21/14,ux,dt2,o6,PHG,PHG,F,F,FF,same,dt,2,Stable,o6,ux,0,ux,o6,o6_ux,1755,split apart,0,0.144358455,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+10/22/14,un,dn2,tr,PHG,PHG,F,F,FF,same,dn,2,Stable,tr,un,0,un,tr,tr_un,4470,split apart,0,0.582653905,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+10/24/14,ty,dp1,ux,PHG,PHG,F,F,FF,same,dp,1,Stable,ty,ux,0,ty,ux,ty_ux,4380,split apart,0,0.399019603,PHG,PHG,1,PHG,PHG,PHG,ENK,remainer
+10/24/14,ty,dt2,ux,PHG,PHG,F,F,FF,same,dt,2,Stable,ux,ty,0,ty,ux,ty_ux,4380,split apart,0,0.399019603,PHG,PHG,0,PHG,PHG,PHG,ENK,remainer
+10/24/14,ux,dn2,fx,PHG,PHG,F,F,FF,same,dn,2,Stable,fx,ux,0,ux,fx,fx_ux,4500,split apart,0,0.823966846,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+10/24/14,ux,dt2,fx,PHG,PHG,F,F,FF,same,dt,2,Stable,fx,ux,0,ux,fx,fx_ux,4500,split apart,0,0.823966846,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+10/25/14,ob,dc1,uj,PHG,PHG,F,F,FF,same,dc,1,Stable,ob,uj,1,ob,uj,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+10/25/14,ob,dt1,uj,PHG,PHG,F,F,FF,same,dt,1,Stable,ob,uj,0,ob,uj,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+10/25/14,ob,dt1,uj,PHG,PHG,F,F,FF,same,dt,1,Stable,ob,uj,0,ob,uj,ob_uj,2970,split apart,0,0.181509258,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+10/28/14,ux,dc2,ob,PHG,PHG,F,F,FF,same,dc,2,Stable,ob,ux,1,ux,ob,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,0,PHG,ENK,PHG,YNT,remainer
+11/3/14,tr,dn1,un,PHG,PHG,F,F,FF,same,dn,1,Stable,tr,un,0,tr,un,tr_un,4470,split apart,0,0.582653905,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/3/14,tr,dn1,un,PHG,PHG,F,F,FF,same,dn,1,Stable,tr,un,0,tr,un,tr_un,4470,split apart,0,0.582653905,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/3/14,tr,dp1,un,PHG,PHG,F,F,FF,same,dp,1,Stable,tr,un,0,tr,un,tr_un,4470,split apart,0,0.582653905,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/7/14,ob,dn1,oy,PHG,PHG,F,F,FF,same,dn,1,Stable,ob,oy,0,ob,oy,ob_oy,4290,split apart,0.25,0.405578306,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/7/14,ob,dt1,oy,PHG,PHG,F,F,FF,same,dt,1,Stable,ob,oy,0,ob,oy,ob_oy,4290,split apart,0.25,0.405578306,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/8/14,fx,dp1,ob,PHG,PHG,F,F,FF,same,dp,1,Stable,fx,ob,0,fx,ob,fx_ob,4410,split apart,0,0.388076799,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+11/8/14,fx,dt1,ob,PHG,PHG,F,F,FF,same,dt,1,Stable,fx,ob,0,fx,ob,fx_ob,4410,split apart,0,0.388076799,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+11/8/14,oo,dn2,fx,PHG,PHG,F,F,FF,same,dn,2,Stable,fx,oo,0,oo,fx,fx_oo,4440,split apart,0,0.175742509,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+11/8/14,oo,dn2,ty,PHG,PHG,F,F,FF,same,dn,2,Stable,ty,oo,0,oo,ty,oo_ty,4320,split apart,0,0.249204734,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+11/8/14,oo,dt2,ty,PHG,PHG,F,F,FF,same,dt,2,Stable,ty,oo,0,oo,ty,oo_ty,4320,split apart,0,0.249204734,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+11/13/14,ug,dd2,o6,PHG,PHG,F,F,FF,same,dd,2,Stable,o6,ug,0,ug,o6,o6_ug,1740,split apart,0,0.052865553,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+11/25/14,ob,dn1,ux,PHG,PHG,F,F,FF,same,dn,1,Stable,ob,ux,0,ob,ux,ob_ux,4410,split apart,0,0.435890047,PHG,PHG,1,PHG,YNT,PHG,ENK,leaver
+11/26/14,o6,dc1,un,PHG,PHG,F,F,FF,same,dc,1,Stable,o6,un,1,o6,un,o6_un,1770,split apart,0,0.043376471,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/26/14,o6,dn1,un,PHG,PHG,F,F,FF,same,dn,1,Stable,o6,un,0,o6,un,o6_un,1770,split apart,0,0.043376471,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/26/14,o6,dt1,un,PHG,PHG,F,F,FF,same,dt,1,Stable,o6,un,0,o6,un,o6_un,1770,split apart,0,0.043376471,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/26/14,oa,dt1,ur,PHG,PHG,F,F,FF,same,dt,1,Stable,oa,ur,0,oa,ur,oa_ur,4365,split apart,0,0.184987053,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+11/27/14,ux,dc2,oy,PHG,PHG,F,F,FF,same,dc,2,Stable,oy,ux,1,ux,oy,oy_ux,4380,split apart,0,0.030311742,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+11/27/14,ux,dp2,oy,PHG,PHG,F,F,FF,same,dp,2,Stable,oy,ux,0,ux,oy,oy_ux,4380,split apart,0,0.030311742,PHG,PHG,0,PHG,ENK,PHG,PHG,leaver
+12/10/14,ty,db2,tr,PHG,PHG,F,F,FF,same,db,2,Stable,tr,ty,0,ty,tr,tr_ty,4395,split apart,0,0.284616286,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+12/30/14,bf,db1,oo,PHG,PHG,F,F,FF,same,db,1,Stable,bf,oo,0,bf,oo,bf_oo,4410,split apart,0,0.351775663,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+1/30/15,ob,dp1,ua,ENK,ENK,F,F,FF,same,dp,1,Dispersal 1,ob,ua,0,ob,ua,ob_ua,1875,briefly together,0,0.564109953,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+1/30/15,ob,dp1,ua,ENK,ENK,F,F,FF,same,dp,1,Dispersal 1,ob,ua,0,ob,ua,ob_ua,1875,briefly together,0,0.564109953,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+2/3/15,oo,db2,qp,ENK,ENK,F,F,FF,same,db,2,Dispersal 1,qp,oo,0,oo,qp,oo_qp,1860,briefly together,0,0.253432111,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+2/3/15,oo,db2,qp,ENK,ENK,F,F,FF,same,db,2,Dispersal 1,qp,oo,0,oo,qp,oo_qp,1860,briefly together,0,0.253432111,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+2/25/15,o6,dn1,ur,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,o6,ur,0,o6,ur,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+2/25/15,o6,dn1,ur,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,o6,ur,0,o6,ur,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+2/25/15,o6,dt1,ur,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,o6,ur,0,o6,ur,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+2/25/15,o6,dt1,ur,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,o6,ur,0,o6,ur,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+2/25/15,o6,dt1,ur,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,o6,ur,0,o6,ur,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+2/25/15,o6,dt1,ur,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,o6,ur,0,o6,ur,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+2/25/15,o6,dt2,ur,PHG,PHG,F,F,FF,same,dt,2,Dispersal 1,ur,o6,0,o6,ur,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+2/25/15,o6,dt2,ur,PHG,PHG,F,F,FF,same,dt,2,Dispersal 1,ur,o6,0,o6,ur,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+3/24/15,oa,dn2,fx,PHG,PHG,F,F,FF,same,dn,2,Dispersal 1,fx,oa,0,oa,fx,fx_oa,2040,split apart,0,0.154533059,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+3/24/15,oa,dn2,fx,PHG,PHG,F,F,FF,same,dn,2,Dispersal 1,fx,oa,0,oa,fx,fx_oa,2040,split apart,0,0.154533059,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+3/24/15,ob,dt1,qn,ENK,ENK,F,F,FF,same,dt,1,Dispersal 1,ob,qn,0,ob,qn,ob_qn,1845,briefly together,0,0.123018055,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+3/24/15,ob,dt1,qn,ENK,ENK,F,F,FF,same,dt,1,Dispersal 1,ob,qn,0,ob,qn,ob_qn,1845,briefly together,0,0.123018055,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+4/13/15,oa,dp2,gm,PHG,PHG,F,F,FF,same,dp,2,Dispersal 1,gm,oa,0,oa,gm,gm_oa,1965,split apart,0,0.002019029,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+4/13/15,oa,dp2,gm,PHG,PHG,F,F,FF,same,dp,2,Dispersal 1,gm,oa,0,oa,gm,gm_oa,1965,split apart,0,0.002019029,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+4/16/15,qn,dd1,oo,ENK,ENK,F,F,FF,same,dd,1,Dispersal 1,qn,oo,0,qn,oo,oo_qn,1830,briefly together,0,0.089316234,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+4/16/15,qn,dd1,oo,ENK,ENK,F,F,FF,same,dd,1,Dispersal 1,qn,oo,0,qn,oo,oo_qn,1830,briefly together,0,0.089316234,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+4/22/15,ob,dn1,qn,ENK,ENK,F,F,FF,same,dn,1,Dispersal 1,ob,qn,0,ob,qn,ob_qn,1845,briefly together,0,0.123018055,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+4/22/15,ob,dn1,qn,ENK,ENK,F,F,FF,same,dn,1,Dispersal 1,ob,qn,0,ob,qn,ob_qn,1845,briefly together,0,0.123018055,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+4/22/15,ob,dn2,qn,ENK,ENK,F,F,FF,same,dn,2,Dispersal 1,qn,ob,0,ob,qn,ob_qn,1845,briefly together,0,0.123018055,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+4/22/15,ob,dn2,qn,ENK,ENK,F,F,FF,same,dn,2,Dispersal 1,qn,ob,0,ob,qn,ob_qn,1845,briefly together,0,0.123018055,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+4/29/15,o6,dp1,oy,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,o6,oy,0,o6,oy,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+4/29/15,o6,dp1,oy,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,o6,oy,0,o6,oy,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+4/29/15,oy,db1,o6,PHG,PHG,F,F,FF,same,db,1,Dispersal 1,oy,o6,0,oy,o6,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+4/29/15,oy,db1,o6,PHG,PHG,F,F,FF,same,db,1,Dispersal 1,oy,o6,0,oy,o6,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+4/29/15,oy,dn1,o6,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,oy,o6,0,oy,o6,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+4/29/15,oy,dn1,o6,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,oy,o6,0,oy,o6,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+4/29/15,oy,dn2,o6,PHG,PHG,F,F,FF,same,dn,2,Dispersal 1,o6,oy,0,oy,o6,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+4/29/15,oy,dn2,o6,PHG,PHG,F,F,FF,same,dn,2,Dispersal 1,o6,oy,0,oy,o6,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+4/29/15,oy,dp1,o6,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,oy,o6,0,oy,o6,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+4/29/15,oy,dp1,o6,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,oy,o6,0,oy,o6,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+4/29/15,yp,dp1,oa,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,yp,oa,0,yp,oa,oa_yp,1920,split apart,0,0.264049165,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+4/29/15,yp,dp1,oa,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,yp,oa,0,yp,oa,oa_yp,1920,split apart,0,0.264049165,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+5/8/15,o6,dn1,oy,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,o6,oy,0,o6,oy,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/8/15,o6,dn1,oy,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,o6,oy,0,o6,oy,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/8/15,o6,dt1,oy,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,o6,oy,0,o6,oy,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/8/15,o6,dt1,oy,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,o6,oy,0,o6,oy,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/8/15,o6,dt1,oy,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,o6,oy,0,o6,oy,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/8/15,o6,dt1,oy,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,o6,oy,0,o6,oy,o6_oy,1950,split apart,0.25,0.114046713,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/9/15,tr,dn1,uz,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,tr,uz,0,tr,uz,tr_uz,1935,split apart,0,0.370467735,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/9/15,tr,dn1,uz,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,tr,uz,0,tr,uz,tr_uz,1935,split apart,0,0.370467735,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+5/22/15,oo,dc1,qn,ENK,ENK,F,F,FF,same,dc,1,Dispersal 1,oo,qn,1,oo,qn,oo_qn,1830,briefly together,0,0.089316234,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+5/22/15,oo,dc1,qn,ENK,ENK,F,F,FF,same,dc,1,Dispersal 1,oo,qn,1,oo,qn,oo_qn,1830,briefly together,0,0.089316234,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+5/22/15,oo,dn1,qn,ENK,ENK,F,F,FF,same,dn,1,Dispersal 1,oo,qn,0,oo,qn,oo_qn,1830,briefly together,0,0.089316234,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+5/22/15,oo,dn1,qn,ENK,ENK,F,F,FF,same,dn,1,Dispersal 1,oo,qn,0,oo,qn,oo_qn,1830,briefly together,0,0.089316234,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+5/22/15,oo,dt2,qn,ENK,ENK,F,F,FF,same,dt,2,Dispersal 1,qn,oo,0,oo,qn,oo_qn,1830,briefly together,0,0.089316234,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+5/22/15,oo,dt2,qn,ENK,ENK,F,F,FF,same,dt,2,Dispersal 1,qn,oo,0,oo,qn,oo_qn,1830,briefly together,0,0.089316234,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+5/25/15,fx,db1,tr,PHG,PHG,F,F,FF,same,db,1,Dispersal 1,fx,tr,0,fx,tr,fx_tr,1995,split apart,0,0.140330957,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+5/25/15,fx,db1,tr,PHG,PHG,F,F,FF,same,db,1,Dispersal 1,fx,tr,0,fx,tr,fx_tr,1995,split apart,0,0.140330957,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+5/25/15,yp,dp1,o6,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,yp,o6,0,yp,o6,o6_yp,1830,split apart,0,0.789124497,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+5/25/15,yp,dp1,o6,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,yp,o6,0,yp,o6,o6_yp,1830,split apart,0,0.789124497,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/4/15,oy,dc1,ob,PHG,PHG,F,F,FF,same,dc,1,Dispersal 1,oy,ob,1,oy,ob,ob_oy,1995,split apart,0.25,0.405578306,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/4/15,oy,dc1,ob,PHG,PHG,F,F,FF,same,dc,1,Dispersal 1,oy,ob,1,oy,ob,ob_oy,1995,split apart,0.25,0.405578306,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/4/15,oy,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Dispersal 1,ob,oy,0,oy,ob,ob_oy,1995,split apart,0.25,0.405578306,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/4/15,oy,dt2,ob,PHG,PHG,F,F,FF,same,dt,2,Dispersal 1,ob,oy,0,oy,ob,ob_oy,1995,split apart,0.25,0.405578306,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/4/15,ur,dc2,oa,PHG,PHG,F,F,FF,same,dc,2,Dispersal 1,oa,ur,1,ur,oa,oa_ur,1995,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/4/15,ur,dc2,oa,PHG,PHG,F,F,FF,same,dc,2,Dispersal 1,oa,ur,1,ur,oa,oa_ur,1995,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/10/15,ty,dc1,oa,PHG,PHG,F,F,FF,same,dc,1,Dispersal 1,ty,oa,1,ty,oa,oa_ty,1950,split apart,0,0.270414184,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/10/15,ty,dc1,oa,PHG,PHG,F,F,FF,same,dc,1,Dispersal 1,ty,oa,1,ty,oa,oa_ty,1950,split apart,0,0.270414184,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/10/15,ty,dp1,oa,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,ty,oa,0,ty,oa,oa_ty,1950,split apart,0,0.270414184,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/10/15,ty,dp1,oa,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,ty,oa,0,ty,oa,oa_ty,1950,split apart,0,0.270414184,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/10/15,ty,dt1,oa,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,ty,oa,0,ty,oa,oa_ty,1950,split apart,0,0.270414184,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/10/15,ty,dt1,oa,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,ty,oa,0,ty,oa,oa_ty,1950,split apart,0,0.270414184,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/11/15,ty,dp1,o6,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,ty,o6,0,ty,o6,o6_ty,1860,split apart,0,0.254661148,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/11/15,ty,dp1,o6,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,ty,o6,0,ty,o6,o6_ty,1860,split apart,0,0.254661148,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dc2,oa,PHG,PHG,F,F,FF,same,dc,2,Dispersal 1,oa,ur,1,ur,oa,oa_ur,1995,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dc2,oa,PHG,PHG,F,F,FF,same,dc,2,Dispersal 1,oa,ur,1,ur,oa,oa_ur,1995,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dp2,oa,PHG,PHG,F,F,FF,same,dp,2,Dispersal 1,oa,ur,0,ur,oa,oa_ur,1995,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dp2,oa,PHG,PHG,F,F,FF,same,dp,2,Dispersal 1,oa,ur,0,ur,oa,oa_ur,1995,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dt1,o6,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,ur,o6,0,ur,o6,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dt1,o6,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,ur,o6,0,ur,o6,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dt2,o6,PHG,PHG,F,F,FF,same,dt,2,Dispersal 1,o6,ur,0,ur,o6,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dt2,o6,PHG,PHG,F,F,FF,same,dt,2,Dispersal 1,o6,ur,0,ur,o6,o6_ur,1905,split apart,0,0.340088279,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dt2,oa,PHG,PHG,F,F,FF,same,dt,2,Dispersal 1,oa,ur,0,ur,oa,oa_ur,1995,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/11/15,ur,dt2,oa,PHG,PHG,F,F,FF,same,dt,2,Dispersal 1,oa,ur,0,ur,oa,oa_ur,1995,split apart,0,0.184987053,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+6/16/15,ty,dp1,oo,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,ty,oo,0,ty,oo,oo_ty,1890,split apart,0,0.249204734,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/16/15,ty,dp1,oo,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,ty,oo,0,ty,oo,oo_ty,1890,split apart,0,0.249204734,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+6/24/15,oa,dn2,yp,PHG,PHG,F,F,FF,same,dn,2,Dispersal 1,yp,oa,0,oa,yp,oa_yp,1920,split apart,0,0.264049165,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+6/24/15,oa,dn2,yp,PHG,PHG,F,F,FF,same,dn,2,Dispersal 1,yp,oa,0,oa,yp,oa_yp,1920,split apart,0,0.264049165,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+6/24/15,oa,dn2,yp,PHG,PHG,F,F,FF,same,dn,2,Dispersal 1,yp,oa,0,oa,yp,oa_yp,1920,split apart,0,0.264049165,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+6/24/15,oa,dn2,yp,PHG,PHG,F,F,FF,same,dn,2,Dispersal 1,yp,oa,0,oa,yp,oa_yp,1920,split apart,0,0.264049165,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+7/4/15,ob,dp2,uj,PHG,PHG,F,F,FF,same,dp,2,Dispersal 1,uj,ob,0,ob,uj,ob_uj,1950,split apart,0,0.181509258,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+7/4/15,ob,dp2,uj,PHG,PHG,F,F,FF,same,dp,2,Dispersal 1,uj,ob,0,ob,uj,ob_uj,1950,split apart,0,0.181509258,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+7/10/15,gm,dp1,o6,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,gm,o6,0,gm,o6,gm_o6,1875,split apart,0,0.523056304,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+7/10/15,gm,dp1,o6,PHG,PHG,F,F,FF,same,dp,1,Dispersal 1,gm,o6,0,gm,o6,gm_o6,1875,split apart,0,0.523056304,PHG,PHG,1,PHG,PHG,PHG,YNT,remainer
+7/10/15,ob,db1,un,PHG,PHG,F,F,FF,same,db,1,Dispersal 1,ob,un,0,ob,un,ob_un,1905,split apart,0,0.334908064,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+7/10/15,ob,db1,un,PHG,PHG,F,F,FF,same,db,1,Dispersal 1,ob,un,0,ob,un,ob_un,1905,split apart,0,0.334908064,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+7/10/15,ob,dn1,ur,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.048556686,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+7/10/15,ob,dn1,ur,PHG,PHG,F,F,FF,same,dn,1,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.048556686,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+7/10/15,ob,dt1,ur,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.048556686,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+7/10/15,ob,dt1,ur,PHG,PHG,F,F,FF,same,dt,1,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.048556686,PHG,PHG,1,PHG,YNT,PHG,PHG,leaver
+9/1/15,uz,dc2,tr,PHG,PHG,F,F,FF,same,dc,2,Dispersal 1,tr,uz,1,uz,tr,tr_uz,1935,split apart,0,0.370467735,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/1/15,uz,dc2,tr,PHG,PHG,F,F,FF,same,dc,2,Dispersal 1,tr,uz,1,uz,tr,tr_uz,1935,split apart,0,0.370467735,PHG,PHG,0,PHG,PHG,PHG,YNT,remainer
+9/21/15,tr,db2,ur,PHG,PHG,F,F,FF,same,db,2,Dispersal 1,ur,tr,0,tr,ur,tr_ur,1950,split apart,0,0.199189155,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+9/21/15,tr,db2,ur,PHG,PHG,F,F,FF,same,db,2,Dispersal 1,ur,tr,0,tr,ur,tr_ur,1950,split apart,0,0.199189155,PHG,PHG,0,PHG,YNT,PHG,PHG,leaver
+10/1/15,oo,dd1,uk,ENK,ENK,F,F,FF,same,dd,1,Dispersal 2,oo,uk,0,oo,uk,oo_uk,1665,briefly together,0,0.581488889,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+10/1/15,oo,dd1,uk,ENK,ENK,F,F,FF,same,dd,1,Dispersal 2,oo,uk,0,oo,uk,oo_uk,1665,briefly together,0,0.581488889,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+10/7/15,uk,dp2,ob,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,ob,uk,0,uk,ob,ob_uk,1695,briefly together,0,0.3691546,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+10/7/15,uk,dp2,ob,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,ob,uk,0,uk,ob,ob_uk,1695,briefly together,0,0.3691546,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+11/18/15,ob,dc1,uv,ENK,ENK,F,F,FF,same,dc,1,Dispersal 2,ob,uv,1,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+11/18/15,ob,dc1,uv,ENK,ENK,F,F,FF,same,dc,1,Dispersal 2,ob,uv,1,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+11/18/15,ob,dc2,uv,ENK,ENK,F,F,FF,same,dc,2,Dispersal 2,uv,ob,1,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+11/18/15,ob,dc2,uv,ENK,ENK,F,F,FF,same,dc,2,Dispersal 2,uv,ob,1,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+11/25/15,ob,db1,ua,ENK,ENK,F,F,FF,same,db,1,Dispersal 2,ob,ua,0,ob,ua,ob_ua,1680,briefly together,0,0.564109953,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+11/25/15,ob,db1,ua,ENK,ENK,F,F,FF,same,db,1,Dispersal 2,ob,ua,0,ob,ua,ob_ua,1680,briefly together,0,0.564109953,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+1/21/16,oa,dt1,by,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,oa,by,0,oa,by,by_oa,1695,briefly together,0,0.381341818,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+1/21/16,oa,dt1,by,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,oa,by,0,oa,by,by_oa,1695,briefly together,0,0.381341818,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+1/21/16,oa,dt1,by,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,oa,by,0,oa,by,by_oa,1695,briefly together,0,0.381341818,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+1/21/16,oa,dt1,by,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,oa,by,0,oa,by,by_oa,1695,briefly together,0,0.381341818,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+1/21/16,oa,dt1,by,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,oa,by,0,oa,by,by_oa,1695,briefly together,0,0.381341818,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+1/21/16,oa,dt1,by,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,oa,by,0,oa,by,by_oa,1695,briefly together,0,0.381341818,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+1/27/16,oo,dc2,by,ENK,ENK,F,F,FF,same,dc,2,Dispersal 2,by,oo,1,oo,by,by_oo,1650,briefly together,0,0.360132368,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+1/27/16,oo,dc2,by,ENK,ENK,F,F,FF,same,dc,2,Dispersal 2,by,oo,1,oo,by,by_oo,1650,briefly together,0,0.360132368,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+2/6/16,tr,dt1,uk,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,tr,uk,0,tr,uk,tr_uk,1695,briefly together,0,0.616900441,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+2/6/16,tr,dt1,uk,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,tr,uk,0,tr,uk,tr_uk,1695,briefly together,0,0.616900441,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+2/6/16,uv,dn2,oo,ENK,ENK,F,F,FF,same,dn,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+2/6/16,uv,dn2,oo,ENK,ENK,F,F,FF,same,dn,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+2/6/16,uv,dp2,oo,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+2/6/16,uv,dp2,oo,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+2/6/16,uv,dp2,oo,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+2/6/16,uv,dp2,oo,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+2/6/16,uv,dt2,oo,ENK,ENK,F,F,FF,same,dt,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+2/6/16,uv,dt2,oo,ENK,ENK,F,F,FF,same,dt,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+2/6/16,uv,dt2,oo,ENK,ENK,F,F,FF,same,dt,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+2/6/16,uv,dt2,oo,ENK,ENK,F,F,FF,same,dt,2,Dispersal 2,oo,uv,0,uv,oo,oo_uv,1680,briefly together,0,0.173370633,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+3/17/16,ob,dn1,uv,ENK,ENK,F,F,FF,same,dn,1,Dispersal 2,ob,uv,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dn1,uv,ENK,ENK,F,F,FF,same,dn,1,Dispersal 2,ob,uv,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dp2,uv,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,uv,ob,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dp2,uv,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,uv,ob,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dp2,uv,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,uv,ob,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dp2,uv,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,uv,ob,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dp2,uv,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,uv,ob,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dp2,uv,ENK,ENK,F,F,FF,same,dp,2,Dispersal 2,uv,ob,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dt1,uv,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,ob,uv,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dt1,uv,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,ob,uv,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dt1,uv,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,ob,uv,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+3/17/16,ob,dt1,uv,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,ob,uv,0,ob,uv,ob_uv,1710,briefly together,0,0.385704922,ENK,ENK,1,PHG,YNT,ENK,ENK,leaver
+3/18/16,qn,dc1,ob,ENK,ENK,F,F,FF,same,dc,1,Dispersal 2,qn,ob,1,qn,ob,ob_qn,1650,briefly together,0,0.123018055,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+3/18/16,qn,dc1,ob,ENK,ENK,F,F,FF,same,dc,1,Dispersal 2,qn,ob,1,qn,ob,ob_qn,1650,briefly together,0,0.123018055,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+3/18/16,qn,dc2,ob,ENK,ENK,F,F,FF,same,dc,2,Dispersal 2,ob,qn,1,qn,ob,ob_qn,1650,briefly together,0,0.123018055,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+3/18/16,qn,dc2,ob,ENK,ENK,F,F,FF,same,dc,2,Dispersal 2,ob,qn,1,qn,ob,ob_qn,1650,briefly together,0,0.123018055,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dc2,ob,ENK,ENK,F,F,FF,same,dc,2,Dispersal 2,ob,ua,1,ua,ob,ob_ua,1680,briefly together,0,0.564109953,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dc2,ob,ENK,ENK,F,F,FF,same,dc,2,Dispersal 2,ob,ua,1,ua,ob,ob_ua,1680,briefly together,0,0.564109953,ENK,ENK,0,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dn1,oo,ENK,ENK,F,F,FF,same,dn,1,Dispersal 2,ua,oo,0,ua,oo,oo_ua,1650,briefly together,0,0.351775663,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dn1,oo,ENK,ENK,F,F,FF,same,dn,1,Dispersal 2,ua,oo,0,ua,oo,oo_ua,1650,briefly together,0,0.351775663,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dp1,oo,ENK,ENK,F,F,FF,same,dp,1,Dispersal 2,ua,oo,0,ua,oo,oo_ua,1650,briefly together,0,0.351775663,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dp1,oo,ENK,ENK,F,F,FF,same,dp,1,Dispersal 2,ua,oo,0,ua,oo,oo_ua,1650,briefly together,0,0.351775663,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dt1,oo,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,ua,oo,0,ua,oo,oo_ua,1650,briefly together,0,0.351775663,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dt1,oo,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,ua,oo,0,ua,oo,oo_ua,1650,briefly together,0,0.351775663,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dt1,oo,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,ua,oo,0,ua,oo,oo_ua,1650,briefly together,0,0.351775663,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+3/18/16,ua,dt1,oo,ENK,ENK,F,F,FF,same,dt,1,Dispersal 2,ua,oo,0,ua,oo,oo_ua,1650,briefly together,0,0.351775663,ENK,ENK,1,ENK,ENK,PHG,YNT,remainer
+4/2/16,o6,dn2,uk,ENK,ENK,F,F,FF,same,dn,2,Dispersal 2,uk,o6,0,o6,uk,o6_uk,1695,briefly together,0,0.077623007,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver
+4/2/16,o6,dt2,uk,ENK,ENK,F,F,FF,same,dt,2,Dispersal 2,uk,o6,0,o6,uk,o6_uk,1695,briefly together,0,0.077623007,ENK,ENK,0,PHG,YNT,ENK,ENK,leaver

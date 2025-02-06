@@ -1,0 +1,394 @@
+date,focal,act,partner,focgroup,prtgroup,focsex,prtsex,group.combo,behav,direction,period,winner,loser,Intensity,id1,id2,Dyad,Obs.effort,outcome,rval,RankDiff,winner.group,loser.group,win,relative.size
+3/1/14,uk,dt1,ug,ENK,PHG,F,F,different,dt,1,Stable,uk,ug,0,ug,uk,ug_uk,4230,never together,0.0625,0.13,ENK,PHG,1,smaller
+3/1/14,uk,dt1,ug,ENK,PHG,F,F,different,dt,1,Stable,uk,ug,0,ug,uk,ug_uk,4230,never together,0.0625,0.13,ENK,PHG,1,smaller
+3/1/14,uk,dt1,ug,ENK,PHG,F,F,different,dt,1,Stable,uk,ug,0,ug,uk,ug_uk,4230,never together,0.0625,0.13,ENK,PHG,1,smaller
+3/1/14,uk,dt2,ug,ENK,PHG,F,F,different,dt,2,Stable,ug,uk,0,ug,uk,ug_uk,4230,never together,0.0625,0.13,PHG,ENK,0,smaller
+3/1/14,uk,dt2,ug,ENK,PHG,F,F,different,dt,2,Stable,ug,uk,0,ug,uk,ug_uk,4230,never together,0.0625,0.13,PHG,ENK,0,smaller
+3/3/14,uk,dt2,ug,ENK,PHG,F,F,different,dt,2,Stable,ug,uk,0,ug,uk,ug_uk,4230,never together,0.0625,0.13,PHG,ENK,0,smaller
+3/29/14,uz,dt2,qn,PHG,ENK,F,F,different,dt,2,Stable,qn,uz,0,qn,uz,qn_uz,4425,never together,0,0.25,ENK,PHG,0,larger
+4/7/14,ur,dn2,uk,PHG,ENK,F,F,different,dn,2,Stable,uk,ur,0,uk,ur,uk_ur,4215,never together,0,0.42,ENK,PHG,0,larger
+4/7/14,ur,dt1,uk,PHG,ENK,F,F,different,dt,1,Stable,ur,uk,0,uk,ur,uk_ur,4215,never together,0,0.42,PHG,ENK,1,larger
+4/7/14,ur,dt1,uk,PHG,ENK,F,F,different,dt,1,Stable,ur,uk,0,uk,ur,uk_ur,4215,never together,0,0.42,PHG,ENK,1,larger
+4/9/14,uk,db2,fd,ENK,PHG,F,F,different,db,2,Stable,fd,uk,0,fd,uk,fd_uk,4215,never together,0,0.83,PHG,ENK,0,smaller
+5/1/14,uk,dd2,uz,ENK,PHG,F,F,different,dd,2,Stable,uz,uk,0,uk,uz,uk_uz,4290,never together,0.0625,0.25,PHG,ENK,0,smaller
+5/29/14,uk,dt2,ur,ENK,PHG,F,F,different,dt,2,Stable,ur,uk,0,uk,ur,uk_ur,4215,never together,0,0.42,PHG,ENK,0,smaller
+6/10/14,by,dn1,ux,ENK,PHG,F,F,different,dn,1,Stable,by,ux,0,by,ux,by_ux,4335,stayed together,0,0.29,ENK,PHG,1,smaller
+6/16/14,qc,dc1,ux,ENK,PHG,F,F,different,dc,1,Stable,qc,ux,1,qc,ux,qc_ux,2175,stayed together,0,0.64,ENK,PHG,1,smaller
+6/16/14,qc,dp1,ux,ENK,PHG,F,F,different,dp,1,Stable,qc,ux,0,qc,ux,qc_ux,2175,stayed together,0,0.64,ENK,PHG,1,smaller
+6/16/14,qc,dt1,ux,ENK,PHG,F,F,different,dt,1,Stable,qc,ux,0,qc,ux,qc_ux,2175,stayed together,0,0.64,ENK,PHG,1,smaller
+6/28/14,uv,dn2,ob,ENK,PHG,F,F,different,dn,2,Stable,ob,uv,0,ob,uv,ob_uv,4320,briefly together,0,0.39,PHG,ENK,0,smaller
+6/28/14,uv,dt1,ob,ENK,PHG,F,F,different,dt,1,Stable,uv,ob,0,ob,uv,ob_uv,4320,briefly together,0,0.39,ENK,PHG,1,smaller
+6/28/14,uv,dt2,ob,ENK,PHG,F,F,different,dt,2,Stable,ob,uv,0,ob,uv,ob_uv,4320,briefly together,0,0.39,PHG,ENK,0,smaller
+6/28/14,uv,dt2,ob,ENK,PHG,F,F,different,dt,2,Stable,ob,uv,0,ob,uv,ob_uv,4320,briefly together,0,0.39,PHG,ENK,0,smaller
+7/3/14,ug,dp1,uv,PHG,ENK,F,F,different,dp,1,Stable,ug,uv,0,ug,uv,ug_uv,4380,never together,0,0.62,PHG,ENK,1,larger
+7/28/14,uk,dp2,bf,ENK,PHG,F,F,different,dp,2,Stable,bf,uk,0,bf,uk,bf_uk,4230,never together,0,0.93,PHG,ENK,0,smaller
+7/28/14,uk,dp2,bf,ENK,PHG,F,F,different,dp,2,Stable,bf,uk,0,bf,uk,bf_uk,4230,never together,0,0.93,PHG,ENK,0,smaller
+7/28/14,uk,dt2,bf,ENK,PHG,F,F,different,dt,2,Stable,bf,uk,0,bf,uk,bf_uk,4230,never together,0,0.93,PHG,ENK,0,smaller
+7/29/14,ut,dc2,tr,ENK,PHG,F,F,different,dc,2,Stable,tr,ut,1,tr,ut,tr_ut,4380,briefly together,0,0.50,PHG,ENK,0,smaller
+7/29/14,ut,dp2,tr,ENK,PHG,F,F,different,dp,2,Stable,tr,ut,0,tr,ut,tr_ut,4380,briefly together,0,0.50,PHG,ENK,0,smaller
+8/8/14,qn,dt2,ur,ENK,PHG,F,F,different,dt,2,Stable,ur,qn,0,qn,ur,qn_ur,4350,never together,0,0.07,PHG,ENK,0,smaller
+8/8/14,ua,dn1,oy,ENK,PHG,F,F,different,dn,1,Stable,ua,oy,0,oy,ua,oy_ua,4290,never together,0,0.97,ENK,PHG,1,smaller
+8/18/14,uv,dn2,oy,ENK,PHG,F,F,different,dn,2,Stable,oy,uv,0,oy,uv,oy_uv,4290,never together,0,0.79,PHG,ENK,0,smaller
+8/19/14,qn,dt2,fd,ENK,PHG,F,F,different,dt,2,Stable,fd,qn,0,fd,qn,fd_qn,4350,never together,0,0.34,PHG,ENK,0,smaller
+8/19/14,ug,dc1,qp,PHG,ENK,F,F,different,dc,1,Stable,ug,qp,1,qp,ug,qp_ug,4290,never together,0,0.20,PHG,ENK,1,larger
+8/19/14,ug,dt1,qp,PHG,ENK,F,F,different,dt,1,Stable,ug,qp,0,qp,ug,qp_ug,4290,never together,0,0.20,PHG,ENK,1,larger
+8/19/14,ug,dt2,qp,PHG,ENK,F,F,different,dt,2,Stable,qp,ug,0,qp,ug,qp_ug,4290,never together,0,0.20,ENK,PHG,0,larger
+8/29/14,qc,dd2,ur,ENK,PHG,F,F,different,dd,2,Stable,ur,qc,0,qc,ur,qc_ur,2175,never together,0,0.15,PHG,ENK,0,smaller
+9/4/14,fd,dt1,ut,PHG,ENK,F,F,different,dt,1,Stable,fd,ut,0,fd,ut,fd_ut,4320,never together,0,0.71,PHG,ENK,1,larger
+9/4/14,fd,dt2,ut,PHG,ENK,F,F,different,dt,2,Stable,ut,fd,0,fd,ut,fd_ut,4320,never together,0,0.71,ENK,PHG,0,larger
+9/4/14,ua,dt1,fd,ENK,PHG,F,F,different,dt,1,Stable,ua,fd,0,fd,ua,fd_ua,4365,never together,0,0.11,ENK,PHG,1,smaller
+9/4/14,ua,dt2,fd,ENK,PHG,F,F,different,dt,2,Stable,fd,ua,0,fd,ua,fd_ua,4365,never together,0,0.11,PHG,ENK,0,smaller
+9/4/14,uz,dp1,uk,PHG,ENK,F,F,different,dp,1,Stable,uz,uk,0,uk,uz,uk_uz,4290,never together,0.0625,0.25,PHG,ENK,1,larger
+9/10/14,fd,dt1,qn,PHG,ENK,F,F,different,dt,1,Stable,fd,qn,0,fd,qn,fd_qn,4350,never together,0,0.34,PHG,ENK,1,larger
+9/12/14,ob,dd1,qn,PHG,ENK,F,F,different,dd,1,Stable,ob,qn,0,ob,qn,ob_qn,4305,briefly together,0,0.12,PHG,ENK,1,larger
+9/12/14,ob,dn1,ua,PHG,ENK,F,F,different,dn,1,Stable,ob,ua,0,ob,ua,ob_ua,4320,briefly together,0,0.56,PHG,ENK,1,larger
+9/12/14,ob,dn1,ua,PHG,ENK,F,F,different,dn,1,Stable,ob,ua,0,ob,ua,ob_ua,4320,briefly together,0,0.56,PHG,ENK,1,larger
+9/12/14,ob,dn1,ua,PHG,ENK,F,F,different,dn,1,Stable,ob,ua,0,ob,ua,ob_ua,4320,briefly together,0,0.56,PHG,ENK,1,larger
+9/12/14,ob,dn1,ua,PHG,ENK,F,F,different,dn,1,Stable,ob,ua,0,ob,ua,ob_ua,4320,briefly together,0,0.56,PHG,ENK,1,larger
+9/12/14,ob,dt1,qn,PHG,ENK,F,F,different,dt,1,Stable,ob,qn,0,ob,qn,ob_qn,4305,briefly together,0,0.12,PHG,ENK,1,larger
+9/12/14,ob,dt2,qn,PHG,ENK,F,F,different,dt,2,Stable,qn,ob,0,ob,qn,ob_qn,4305,briefly together,0,0.12,ENK,PHG,0,larger
+9/16/14,qc,dd2,ob,ENK,PHG,F,F,different,dd,2,Stable,ob,qc,0,ob,qc,ob_qc,2160,briefly together,0,0.20,PHG,ENK,0,smaller
+9/18/14,uv,dd1,fx,ENK,PHG,F,F,different,dd,1,Stable,uv,fx,0,fx,uv,fx_uv,4410,never together,0,0.00,ENK,PHG,1,smaller
+9/18/14,uv,dd2,oo,ENK,PHG,F,F,different,dd,2,Stable,oo,uv,0,oo,uv,oo_uv,4350,briefly together,0,0.17,PHG,ENK,0,smaller
+9/18/14,ux,dp2,ut,PHG,ENK,F,F,different,dp,2,Stable,ut,ux,0,ut,ux,ut_ux,4365,stayed together,0.5,0.18,ENK,PHG,0,larger
+9/19/14,ua,dd2,oo,ENK,PHG,F,F,different,dd,2,Stable,oo,ua,0,oo,ua,oo_ua,4350,briefly together,0,0.35,PHG,ENK,0,smaller
+9/22/14,un,dc2,ut,PHG,ENK,F,F,different,dc,2,Stable,ut,un,1,un,ut,un_ut,4320,never together,0.25,0.08,ENK,PHG,0,larger
+9/24/14,ua,dn2,oo,ENK,PHG,F,F,different,dn,2,Stable,oo,ua,0,oo,ua,oo_ua,4350,briefly together,0,0.35,PHG,ENK,0,smaller
+9/24/14,ua,dt2,oo,ENK,PHG,F,F,different,dt,2,Stable,oo,ua,0,oo,ua,oo_ua,4350,briefly together,0,0.35,PHG,ENK,0,smaller
+9/24/14,un,dt1,qp,PHG,ENK,F,F,different,dt,1,Stable,un,qp,0,qp,un,qp_un,4275,never together,0,0.29,PHG,ENK,1,larger
+9/25/14,o6,dt2,ut,PHG,ENK,F,F,different,dt,2,Stable,ut,o6,0,o6,ut,o6_ut,1785,briefly together,0,0.04,ENK,PHG,0,larger
+9/25/14,ua,db2,fd,ENK,PHG,F,F,different,db,2,Stable,fd,ua,0,fd,ua,fd_ua,4365,never together,0,0.11,PHG,ENK,0,smaller
+9/25/14,ux,dn2,ut,PHG,ENK,F,F,different,dn,2,Stable,ut,ux,0,ut,ux,ut_ux,4365,stayed together,0.5,0.18,ENK,PHG,0,larger
+9/25/14,ux,dp2,ut,PHG,ENK,F,F,different,dp,2,Stable,ut,ux,0,ut,ux,ut_ux,4365,stayed together,0.5,0.18,ENK,PHG,0,larger
+9/25/14,ux,dp2,ut,PHG,ENK,F,F,different,dp,2,Stable,ut,ux,0,ut,ux,ut_ux,4365,stayed together,0.5,0.18,ENK,PHG,0,larger
+9/25/14,ux,dt2,ut,PHG,ENK,F,F,different,dt,2,Stable,ut,ux,0,ut,ux,ut_ux,4365,stayed together,0.5,0.18,ENK,PHG,0,larger
+10/2/14,qp,dn2,o6,ENK,PHG,F,F,different,dn,2,Stable,o6,qp,0,o6,qp,o6_qp,1800,briefly together,0,0.25,PHG,ENK,0,smaller
+10/2/14,qp,dp1,o6,ENK,PHG,F,F,different,dp,1,Stable,qp,o6,0,o6,qp,o6_qp,1800,briefly together,0,0.25,ENK,PHG,1,smaller
+10/2/14,qp,dt1,o6,ENK,PHG,F,F,different,dt,1,Stable,qp,o6,0,o6,qp,o6_qp,1800,briefly together,0,0.25,ENK,PHG,1,smaller
+10/2/14,qp,dt1,o6,ENK,PHG,F,F,different,dt,1,Stable,qp,o6,0,o6,qp,o6_qp,1800,briefly together,0,0.25,ENK,PHG,1,smaller
+10/6/14,ug,dd1,qn,PHG,ENK,F,F,different,dd,1,Stable,ug,qn,0,qn,ug,qn_ug,4365,never together,0,0.36,PHG,ENK,1,larger
+10/9/14,ob,dn1,qc,PHG,ENK,F,F,different,dn,1,Stable,ob,qc,0,ob,qc,ob_qc,2160,briefly together,0,0.20,PHG,ENK,1,larger
+10/9/14,oo,dd1,qn,PHG,ENK,F,F,different,dd,1,Stable,oo,qn,0,oo,qn,oo_qn,4335,briefly together,0,0.09,PHG,ENK,1,larger
+10/9/14,uj,dp1,uk,PHG,ENK,F,F,different,dp,1,Stable,uj,uk,0,uj,uk,uj_uk,2850,never together,0.0625,0.19,PHG,ENK,1,larger
+10/10/14,ug,dt1,ut,PHG,ENK,F,F,different,dt,1,Stable,ug,ut,0,ug,ut,ug_ut,4335,never together,0,0.01,PHG,ENK,1,larger
+10/10/14,ug,dt1,ut,PHG,ENK,F,F,different,dt,1,Stable,ug,ut,0,ug,ut,ug_ut,4335,never together,0,0.01,PHG,ENK,1,larger
+10/10/14,uj,dn1,ut,PHG,ENK,F,F,different,dn,1,Stable,uj,ut,0,uj,ut,uj_ut,2970,never together,0,0.07,PHG,ENK,1,larger
+10/15/14,un,dt2,qn,PHG,ENK,F,F,different,dt,2,Stable,qn,un,0,qn,un,qn_un,4350,never together,0,0.46,ENK,PHG,0,larger
+10/15/14,uv,dn2,oy,ENK,PHG,F,F,different,dn,2,Stable,oy,uv,0,oy,uv,oy_uv,4290,never together,0,0.79,PHG,ENK,0,smaller
+10/15/14,uv,dn2,oy,ENK,PHG,F,F,different,dn,2,Stable,oy,uv,0,oy,uv,oy_uv,4290,never together,0,0.79,PHG,ENK,0,smaller
+10/15/14,uv,dn2,oy,ENK,PHG,F,F,different,dn,2,Stable,oy,uv,0,oy,uv,oy_uv,4290,never together,0,0.79,PHG,ENK,0,smaller
+10/15/14,uv,dp2,oy,ENK,PHG,F,F,different,dp,2,Stable,oy,uv,0,oy,uv,oy_uv,4290,never together,0,0.79,PHG,ENK,0,smaller
+10/15/14,uv,dt1,oy,ENK,PHG,F,F,different,dt,1,Stable,uv,oy,0,oy,uv,oy_uv,4290,never together,0,0.79,ENK,PHG,1,smaller
+10/22/14,ut,dc2,oa,ENK,PHG,F,F,different,dc,2,Stable,oa,ut,1,oa,ut,oa_ut,4275,briefly together,0,0.49,PHG,ENK,0,smaller
+10/23/14,by,dc1,ug,ENK,PHG,F,F,different,dc,1,Stable,by,ug,1,by,ug,by_ug,4305,never together,0,0.09,ENK,PHG,1,smaller
+10/23/14,by,dt1,ug,ENK,PHG,F,F,different,dt,1,Stable,by,ug,0,by,ug,by_ug,4305,never together,0,0.09,ENK,PHG,1,smaller
+10/23/14,by,dt2,ug,ENK,PHG,F,F,different,dt,2,Stable,ug,by,0,by,ug,by_ug,4305,never together,0,0.09,PHG,ENK,0,smaller
+10/24/14,bf,dn2,uk,PHG,ENK,F,F,different,dn,2,Stable,uk,bf,0,bf,uk,bf_uk,4230,never together,0,0.93,ENK,PHG,0,larger
+10/24/14,uz,dt1,qc,PHG,ENK,F,F,different,dt,1,Stable,uz,qc,0,qc,uz,qc_uz,2235,never together,0,0.32,PHG,ENK,1,larger
+10/25/14,un,dd2,uv,PHG,ENK,F,F,different,dd,2,Stable,uv,un,0,un,uv,un_uv,4365,never together,0.25,0.72,ENK,PHG,0,larger
+11/7/14,ut,dt2,fx,ENK,PHG,F,F,different,dt,2,Stable,fx,ut,0,fx,ut,fx_ut,4365,never together,0,0.64,PHG,ENK,0,smaller
+11/7/14,ut,dt2,oo,ENK,PHG,F,F,different,dt,2,Stable,oo,ut,0,oo,ut,oo_ut,4305,briefly together,0,0.47,PHG,ENK,0,smaller
+11/8/14,ob,dn1,ua,PHG,ENK,F,F,different,dn,1,Stable,ob,ua,0,ob,ua,ob_ua,4320,briefly together,0,0.56,PHG,ENK,1,larger
+11/8/14,oo,dc1,uk,PHG,ENK,F,F,different,dc,1,Stable,oo,uk,1,oo,uk,oo_uk,4200,briefly together,0,0.58,PHG,ENK,1,larger
+11/8/14,oo,dn1,uk,PHG,ENK,F,F,different,dn,1,Stable,oo,uk,0,oo,uk,oo_uk,4200,briefly together,0,0.58,PHG,ENK,1,larger
+11/8/14,oo,dt1,uk,PHG,ENK,F,F,different,dt,1,Stable,oo,uk,0,oo,uk,oo_uk,4200,briefly together,0,0.58,PHG,ENK,1,larger
+11/8/14,oo,dt1,uk,PHG,ENK,F,F,different,dt,1,Stable,oo,uk,0,oo,uk,oo_uk,4200,briefly together,0,0.58,PHG,ENK,1,larger
+11/8/14,oo,dt1,uk,PHG,ENK,F,F,different,dt,1,Stable,oo,uk,0,oo,uk,oo_uk,4200,briefly together,0,0.58,PHG,ENK,1,larger
+11/8/14,oo,dt2,uk,PHG,ENK,F,F,different,dt,2,Stable,uk,oo,0,oo,uk,oo_uk,4200,briefly together,0,0.58,ENK,PHG,0,larger
+12/4/14,o6,dp1,qc,PHG,ENK,F,F,different,dp,1,Stable,o6,qc,0,o6,qc,o6_qc,1710,briefly together,0,0.49,PHG,ENK,1,larger
+12/4/14,o6,dt1,qc,PHG,ENK,F,F,different,dt,1,Stable,o6,qc,0,o6,qc,o6_qc,1710,briefly together,0,0.49,PHG,ENK,1,larger
+12/10/14,by,dc1,un,ENK,PHG,F,F,different,dc,1,Stable,by,un,1,by,un,by_un,4290,never together,0,0.19,ENK,PHG,1,smaller
+12/10/14,by,dt1,un,ENK,PHG,F,F,different,dt,1,Stable,by,un,0,by,un,by_un,4290,never together,0,0.19,ENK,PHG,1,smaller
+12/10/14,uk,dn2,ob,ENK,PHG,F,F,different,dn,2,Stable,ob,uk,0,ob,uk,ob_uk,4170,briefly together,0,0.37,PHG,ENK,0,smaller
+12/10/14,uk,dt2,ob,ENK,PHG,F,F,different,dt,2,Stable,ob,uk,0,ob,uk,ob_uk,4170,briefly together,0,0.37,PHG,ENK,0,smaller
+12/10/14,uk,dt2,ob,ENK,PHG,F,F,different,dt,2,Stable,ob,uk,0,ob,uk,ob_uk,4170,briefly together,0,0.37,PHG,ENK,0,smaller
+12/15/14,ua,dn2,bf,ENK,PHG,F,F,different,dn,2,Stable,bf,ua,0,bf,ua,bf_ua,4380,never together,0,0.00,PHG,ENK,0,smaller
+12/15/14,ua,dp2,bf,ENK,PHG,F,F,different,dp,2,Stable,bf,ua,0,bf,ua,bf_ua,4380,never together,0,0.00,PHG,ENK,0,smaller
+12/15/14,ua,dt1,bf,ENK,PHG,F,F,different,dt,1,Stable,ua,bf,0,bf,ua,bf_ua,4380,never together,0,0.00,ENK,PHG,1,smaller
+12/18/14,oa,dn1,by,PHG,ENK,F,F,different,dn,1,Stable,oa,by,0,by,oa,by_oa,4245,briefly together,0,0.38,PHG,ENK,1,larger
+12/18/14,oa,dp1,by,PHG,ENK,F,F,different,dp,1,Stable,oa,by,0,by,oa,by_oa,4245,briefly together,0,0.38,PHG,ENK,1,larger
+12/30/14,ob,dn1,qc,PHG,ENK,F,F,different,dn,1,Stable,ob,qc,0,ob,qc,ob_qc,2160,briefly together,0,0.20,PHG,ENK,1,larger
+12/30/14,ob,dt1,qc,PHG,ENK,F,F,different,dt,1,Stable,ob,qc,0,ob,qc,ob_qc,2160,briefly together,0,0.20,PHG,ENK,1,larger
+1/15/15,ty,dd1,ob,PHG,ENK,F,F,different,dd,1,Dispersal 1,ty,ob,0,ob,ty,ob_ty,1905,split apart,0,0.04,PHG,ENK,1,larger
+1/15/15,ty,dd1,ob,PHG,ENK,F,F,different,dd,1,Dispersal 1,ty,ob,0,ob,ty,ob_ty,1905,split apart,0,0.04,PHG,ENK,1,larger
+1/24/15,ob,dd2,fx,ENK,PHG,F,F,different,dd,2,Dispersal 1,fx,ob,0,fx,ob,fx_ob,1995,split apart,0,0.39,PHG,ENK,0,smaller
+1/24/15,ob,dd2,fx,ENK,PHG,F,F,different,dd,2,Dispersal 1,fx,ob,0,fx,ob,fx_ob,1995,split apart,0,0.39,PHG,ENK,0,smaller
+1/27/15,uv,dp2,ty,ENK,PHG,F,F,different,dp,2,Dispersal 1,ty,uv,0,ty,uv,ty_uv,1845,never together,0,0.42,PHG,ENK,0,smaller
+1/27/15,uv,dp2,ty,ENK,PHG,F,F,different,dp,2,Dispersal 1,ty,uv,0,ty,uv,ty_uv,1845,never together,0,0.42,PHG,ENK,0,smaller
+3/3/15,ty,dp1,uv,PHG,ENK,F,F,different,dp,1,Dispersal 1,ty,uv,0,ty,uv,ty_uv,1845,never together,0,0.42,PHG,ENK,1,larger
+3/3/15,ty,dp1,uv,PHG,ENK,F,F,different,dp,1,Dispersal 1,ty,uv,0,ty,uv,ty_uv,1845,never together,0,0.42,PHG,ENK,1,larger
+3/3/15,ty,dp2,uv,PHG,ENK,F,F,different,dp,2,Dispersal 1,uv,ty,0,ty,uv,ty_uv,1845,never together,0,0.42,ENK,PHG,0,larger
+3/3/15,ty,dp2,uv,PHG,ENK,F,F,different,dp,2,Dispersal 1,uv,ty,0,ty,uv,ty_uv,1845,never together,0,0.42,ENK,PHG,0,larger
+3/11/15,dz,dt2,ut,PHG,ENK,F,F,different,dt,2,Dispersal 1,ut,dz,0,dz,ut,dz_ut,1860,never together,0,0.57,ENK,PHG,0,larger
+3/11/15,dz,dt2,ut,PHG,ENK,F,F,different,dt,2,Dispersal 1,ut,dz,0,dz,ut,dz_ut,1860,never together,0,0.57,ENK,PHG,0,larger
+3/11/15,ut,dt1,dz,ENK,PHG,F,F,different,dt,1,Dispersal 1,ut,dz,0,dz,ut,dz_ut,1860,never together,0,0.57,ENK,PHG,1,smaller
+3/11/15,ut,dt1,dz,ENK,PHG,F,F,different,dt,1,Dispersal 1,ut,dz,0,dz,ut,dz_ut,1860,never together,0,0.57,ENK,PHG,1,smaller
+3/23/15,oa,db1,ux,PHG,ENK,F,F,different,db,1,Dispersal 1,oa,ux,0,oa,ux,oa_ux,1980,split apart,0,0.67,PHG,ENK,1,larger
+3/23/15,oa,db1,ux,PHG,ENK,F,F,different,db,1,Dispersal 1,oa,ux,0,oa,ux,oa_ux,1980,split apart,0,0.67,PHG,ENK,1,larger
+3/23/15,oa,dt1,ux,PHG,ENK,F,F,different,dt,1,Dispersal 1,oa,ux,0,oa,ux,oa_ux,1980,split apart,0,0.67,PHG,ENK,1,larger
+3/23/15,oa,dt1,ux,PHG,ENK,F,F,different,dt,1,Dispersal 1,oa,ux,0,oa,ux,oa_ux,1980,split apart,0,0.67,PHG,ENK,1,larger
+3/23/15,yp,dt1,ua,PHG,ENK,F,F,different,dt,1,Dispersal 1,yp,ua,0,ua,yp,ua_yp,1800,never together,0,0.07,PHG,ENK,1,larger
+3/23/15,yp,dt1,ua,PHG,ENK,F,F,different,dt,1,Dispersal 1,yp,ua,0,ua,yp,ua_yp,1800,never together,0,0.07,PHG,ENK,1,larger
+3/23/15,yp,dt2,ua,PHG,ENK,F,F,different,dt,2,Dispersal 1,ua,yp,0,ua,yp,ua_yp,1800,never together,0,0.07,ENK,PHG,0,larger
+3/23/15,yp,dt2,ua,PHG,ENK,F,F,different,dt,2,Dispersal 1,ua,yp,0,ua,yp,ua_yp,1800,never together,0,0.07,ENK,PHG,0,larger
+3/30/15,fx,dd1,oo,PHG,ENK,F,F,different,dd,1,Dispersal 1,fx,oo,0,fx,oo,fx_oo,1980,split apart,0,0.18,PHG,ENK,1,larger
+3/30/15,fx,dd1,oo,PHG,ENK,F,F,different,dd,1,Dispersal 1,fx,oo,0,fx,oo,fx_oo,1980,split apart,0,0.18,PHG,ENK,1,larger
+3/30/15,ur,dc1,ob,PHG,ENK,F,F,different,dc,1,Dispersal 1,ur,ob,1,ob,ur,ob_ur,1950,split apart,0,0.05,PHG,ENK,1,larger
+3/30/15,ur,dc1,ob,PHG,ENK,F,F,different,dc,1,Dispersal 1,ur,ob,1,ob,ur,ob_ur,1950,split apart,0,0.05,PHG,ENK,1,larger
+3/30/15,ur,dc2,ob,PHG,ENK,F,F,different,dc,2,Dispersal 1,ob,ur,1,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+3/30/15,ur,dc2,ob,PHG,ENK,F,F,different,dc,2,Dispersal 1,ob,ur,1,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+3/30/15,ur,dp2,ob,PHG,ENK,F,F,different,dp,2,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+3/30/15,ur,dp2,ob,PHG,ENK,F,F,different,dp,2,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+3/30/15,ur,dt2,ob,PHG,ENK,F,F,different,dt,2,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+3/30/15,ur,dt2,ob,PHG,ENK,F,F,different,dt,2,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+3/30/15,ur,dt2,ob,PHG,ENK,F,F,different,dt,2,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+3/30/15,ur,dt2,ob,PHG,ENK,F,F,different,dt,2,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+3/30/15,ur,dt2,ob,PHG,ENK,F,F,different,dt,2,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+3/30/15,ur,dt2,ob,PHG,ENK,F,F,different,dt,2,Dispersal 1,ob,ur,0,ob,ur,ob_ur,1950,split apart,0,0.05,ENK,PHG,0,larger
+4/2/15,uv,dt1,uz,ENK,PHG,F,F,different,dt,1,Dispersal 1,uv,uz,0,uv,uz,uv_uz,1875,never together,0.125,0.51,ENK,PHG,1,smaller
+4/2/15,uv,dt1,uz,ENK,PHG,F,F,different,dt,1,Dispersal 1,uv,uz,0,uv,uz,uv_uz,1875,never together,0.125,0.51,ENK,PHG,1,smaller
+4/11/15,ob,dn2,uj,ENK,PHG,F,F,different,dn,2,Dispersal 1,uj,ob,0,ob,uj,ob_uj,1950,split apart,0,0.18,PHG,ENK,0,smaller
+4/11/15,ob,dn2,uj,ENK,PHG,F,F,different,dn,2,Dispersal 1,uj,ob,0,ob,uj,ob_uj,1950,split apart,0,0.18,PHG,ENK,0,smaller
+4/11/15,ob,dp2,uj,ENK,PHG,F,F,different,dp,2,Dispersal 1,uj,ob,0,ob,uj,ob_uj,1950,split apart,0,0.18,PHG,ENK,0,smaller
+4/11/15,ob,dp2,uj,ENK,PHG,F,F,different,dp,2,Dispersal 1,uj,ob,0,ob,uj,ob_uj,1950,split apart,0,0.18,PHG,ENK,0,smaller
+4/13/15,tr,db2,ob,PHG,ENK,F,F,different,db,2,Dispersal 1,ob,tr,0,ob,tr,ob_tr,1950,stayed together,0,0.25,ENK,PHG,0,larger
+4/13/15,tr,db2,ob,PHG,ENK,F,F,different,db,2,Dispersal 1,ob,tr,0,ob,tr,ob_tr,1950,stayed together,0,0.25,ENK,PHG,0,larger
+4/14/15,by,dn2,bf,ENK,PHG,F,F,different,dn,2,Dispersal 1,bf,by,0,bf,by,bf_by,1920,never together,0.25,0.71,PHG,ENK,0,smaller
+4/14/15,by,dn2,bf,ENK,PHG,F,F,different,dn,2,Dispersal 1,bf,by,0,bf,by,bf_by,1920,never together,0.25,0.71,PHG,ENK,0,smaller
+4/14/15,by,dt2,bf,ENK,PHG,F,F,different,dt,2,Dispersal 1,bf,by,0,bf,by,bf_by,1920,never together,0.25,0.71,PHG,ENK,0,smaller
+4/14/15,by,dt2,bf,ENK,PHG,F,F,different,dt,2,Dispersal 1,bf,by,0,bf,by,bf_by,1920,never together,0.25,0.71,PHG,ENK,0,smaller
+4/16/15,qn,db2,dz,ENK,PHG,F,F,different,db,2,Dispersal 1,dz,qn,0,dz,qn,dz_qn,1830,never together,0.25,0.19,PHG,ENK,0,smaller
+4/16/15,qn,db2,dz,ENK,PHG,F,F,different,db,2,Dispersal 1,dz,qn,0,dz,qn,dz_qn,1830,never together,0.25,0.19,PHG,ENK,0,smaller
+4/21/15,fd,dt2,oo,PHG,ENK,F,F,different,dt,2,Dispersal 1,oo,fd,0,fd,oo,fd_oo,1920,split apart,0,0.25,ENK,PHG,0,larger
+4/21/15,fd,dt2,oo,PHG,ENK,F,F,different,dt,2,Dispersal 1,oo,fd,0,fd,oo,fd_oo,1920,split apart,0,0.25,ENK,PHG,0,larger
+4/22/15,o6,dd2,by,PHG,ENK,F,F,different,dd,2,Dispersal 1,by,o6,0,by,o6,by_o6,1830,briefly together,0,0.14,ENK,PHG,0,larger
+4/22/15,o6,dd2,by,PHG,ENK,F,F,different,dd,2,Dispersal 1,by,o6,0,by,o6,by_o6,1830,briefly together,0,0.14,ENK,PHG,0,larger
+4/22/15,oa,dp1,ut,PHG,ENK,F,F,different,dp,1,Dispersal 1,oa,ut,0,oa,ut,oa_ut,1920,briefly together,0,0.49,PHG,ENK,1,larger
+4/22/15,oa,dp1,ut,PHG,ENK,F,F,different,dp,1,Dispersal 1,oa,ut,0,oa,ut,oa_ut,1920,briefly together,0,0.49,PHG,ENK,1,larger
+5/8/15,bf,dc2,oo,PHG,ENK,F,F,different,dc,2,Dispersal 1,oo,bf,1,bf,oo,bf_oo,1980,split apart,0,0.35,ENK,PHG,0,larger
+5/8/15,bf,dc2,oo,PHG,ENK,F,F,different,dc,2,Dispersal 1,oo,bf,1,bf,oo,bf_oo,1980,split apart,0,0.35,ENK,PHG,0,larger
+5/8/15,bf,dp1,qn,PHG,ENK,F,F,different,dp,1,Dispersal 1,bf,qn,0,bf,qn,bf_qn,1890,never together,0.125,0.44,PHG,ENK,1,larger
+5/8/15,bf,dp1,qn,PHG,ENK,F,F,different,dp,1,Dispersal 1,bf,qn,0,bf,qn,bf_qn,1890,never together,0.125,0.44,PHG,ENK,1,larger
+5/8/15,bf,dt1,oo,PHG,ENK,F,F,different,dt,1,Dispersal 1,bf,oo,0,bf,oo,bf_oo,1980,split apart,0,0.35,PHG,ENK,1,larger
+5/8/15,bf,dt1,oo,PHG,ENK,F,F,different,dt,1,Dispersal 1,bf,oo,0,bf,oo,bf_oo,1980,split apart,0,0.35,PHG,ENK,1,larger
+5/8/15,o6,dc2,ua,PHG,ENK,F,F,different,dc,2,Dispersal 1,ua,o6,1,o6,ua,o6_ua,1830,briefly together,0,0.86,ENK,PHG,0,larger
+5/8/15,o6,dc2,ua,PHG,ENK,F,F,different,dc,2,Dispersal 1,ua,o6,1,o6,ua,o6_ua,1830,briefly together,0,0.86,ENK,PHG,0,larger
+5/22/15,ob,dc1,uj,ENK,PHG,F,F,different,dc,1,Dispersal 1,ob,uj,1,ob,uj,ob_uj,1950,split apart,0,0.18,ENK,PHG,1,smaller
+5/22/15,ob,dc1,uj,ENK,PHG,F,F,different,dc,1,Dispersal 1,ob,uj,1,ob,uj,ob_uj,1950,split apart,0,0.18,ENK,PHG,1,smaller
+5/22/15,ob,dt1,uj,ENK,PHG,F,F,different,dt,1,Dispersal 1,ob,uj,0,ob,uj,ob_uj,1950,split apart,0,0.18,ENK,PHG,1,smaller
+5/22/15,ob,dt1,uj,ENK,PHG,F,F,different,dt,1,Dispersal 1,ob,uj,0,ob,uj,ob_uj,1950,split apart,0,0.18,ENK,PHG,1,smaller
+5/23/15,bf,dt1,ua,PHG,ENK,F,F,different,dt,1,Dispersal 1,bf,ua,0,bf,ua,bf_ua,1920,never together,0,0.00,PHG,ENK,1,larger
+5/23/15,bf,dt1,ua,PHG,ENK,F,F,different,dt,1,Dispersal 1,bf,ua,0,bf,ua,bf_ua,1920,never together,0,0.00,PHG,ENK,1,larger
+5/23/15,gm,dt2,oo,PHG,ENK,F,F,different,dt,2,Dispersal 1,oo,gm,0,gm,oo,gm_oo,1905,split apart,0,0.02,ENK,PHG,0,larger
+5/23/15,gm,dt2,oo,PHG,ENK,F,F,different,dt,2,Dispersal 1,oo,gm,0,gm,oo,gm_oo,1905,split apart,0,0.02,ENK,PHG,0,larger
+5/25/15,ty,db1,ux,PHG,ENK,F,F,different,db,1,Dispersal 1,ty,ux,0,ty,ux,ty_ux,1890,split apart,0,0.40,PHG,ENK,1,larger
+5/25/15,ty,db1,ux,PHG,ENK,F,F,different,db,1,Dispersal 1,ty,ux,0,ty,ux,ty_ux,1890,split apart,0,0.40,PHG,ENK,1,larger
+5/25/15,ty,dc1,ux,PHG,ENK,F,F,different,dc,1,Dispersal 1,ty,ux,1,ty,ux,ty_ux,1890,split apart,0,0.40,PHG,ENK,1,larger
+5/25/15,ty,dc1,ux,PHG,ENK,F,F,different,dc,1,Dispersal 1,ty,ux,1,ty,ux,ty_ux,1890,split apart,0,0.40,PHG,ENK,1,larger
+5/25/15,ty,dp1,ux,PHG,ENK,F,F,different,dp,1,Dispersal 1,ty,ux,0,ty,ux,ty_ux,1890,split apart,0,0.40,PHG,ENK,1,larger
+5/25/15,ty,dp1,ux,PHG,ENK,F,F,different,dp,1,Dispersal 1,ty,ux,0,ty,ux,ty_ux,1890,split apart,0,0.40,PHG,ENK,1,larger
+5/25/15,ux,dt2,uj,ENK,PHG,F,F,different,dt,2,Dispersal 1,uj,ux,0,uj,ux,uj_ux,1935,split apart,0.0625,0.25,PHG,ENK,0,smaller
+5/25/15,ux,dt2,uj,ENK,PHG,F,F,different,dt,2,Dispersal 1,uj,ux,0,uj,ux,uj_ux,1935,split apart,0.0625,0.25,PHG,ENK,0,smaller
+6/18/15,ob,dt1,qc,PHG,ENK,F,F,different,dt,1,Dispersal 1,ob,qc,0,ob,qc,ob_qc,1875,briefly together,0,0.20,PHG,ENK,1,larger
+6/18/15,ob,dt1,qc,PHG,ENK,F,F,different,dt,1,Dispersal 1,ob,qc,0,ob,qc,ob_qc,1875,briefly together,0,0.20,PHG,ENK,1,larger
+7/2/15,uk,dd2,uz,ENK,PHG,F,F,different,dd,2,Dispersal 1,uz,uk,0,uk,uz,uk_uz,1920,never together,0.0625,0.25,PHG,ENK,0,smaller
+7/2/15,uk,dd2,uz,ENK,PHG,F,F,different,dd,2,Dispersal 1,uz,uk,0,uk,uz,uk_uz,1920,never together,0.0625,0.25,PHG,ENK,0,smaller
+7/16/15,gm,dc2,uv,PHG,ENK,F,F,different,dc,2,Dispersal 1,uv,gm,1,gm,uv,gm_uv,1860,never together,0,0.15,ENK,PHG,0,larger
+7/16/15,gm,dc2,uv,PHG,ENK,F,F,different,dc,2,Dispersal 1,uv,gm,1,gm,uv,gm_uv,1860,never together,0,0.15,ENK,PHG,0,larger
+7/16/15,gm,dt2,uv,PHG,ENK,F,F,different,dt,2,Dispersal 1,uv,gm,0,gm,uv,gm_uv,1860,never together,0,0.15,ENK,PHG,0,larger
+7/16/15,gm,dt2,uv,PHG,ENK,F,F,different,dt,2,Dispersal 1,uv,gm,0,gm,uv,gm_uv,1860,never together,0,0.15,ENK,PHG,0,larger
+7/28/15,fd,db1,ux,PHG,ENK,F,F,different,db,1,Dispersal 1,fd,ux,0,fd,ux,fd_ux,1920,split apart,0,0.89,PHG,ENK,1,larger
+7/28/15,fd,db1,ux,PHG,ENK,F,F,different,db,1,Dispersal 1,fd,ux,0,fd,ux,fd_ux,1920,split apart,0,0.89,PHG,ENK,1,larger
+8/13/15,uk,dn2,ob,ENK,PHG,F,F,different,dn,2,Dispersal 1,ob,uk,0,ob,uk,ob_uk,1935,briefly together,0,0.37,PHG,ENK,0,smaller
+8/13/15,uk,dn2,ob,ENK,PHG,F,F,different,dn,2,Dispersal 1,ob,uk,0,ob,uk,ob_uk,1935,briefly together,0,0.37,PHG,ENK,0,smaller
+8/13/15,uk,dt1,ob,ENK,PHG,F,F,different,dt,1,Dispersal 1,uk,ob,0,ob,uk,ob_uk,1935,briefly together,0,0.37,ENK,PHG,1,smaller
+8/13/15,uk,dt1,ob,ENK,PHG,F,F,different,dt,1,Dispersal 1,uk,ob,0,ob,uk,ob_uk,1935,briefly together,0,0.37,ENK,PHG,1,smaller
+8/13/15,uk,dt2,ob,ENK,PHG,F,F,different,dt,2,Dispersal 1,ob,uk,0,ob,uk,ob_uk,1935,briefly together,0,0.37,PHG,ENK,0,smaller
+8/13/15,uk,dt2,ob,ENK,PHG,F,F,different,dt,2,Dispersal 1,ob,uk,0,ob,uk,ob_uk,1935,briefly together,0,0.37,PHG,ENK,0,smaller
+8/13/15,uk,dt2,ob,ENK,PHG,F,F,different,dt,2,Dispersal 1,ob,uk,0,ob,uk,ob_uk,1935,briefly together,0,0.37,PHG,ENK,0,smaller
+8/13/15,uk,dt2,ob,ENK,PHG,F,F,different,dt,2,Dispersal 1,ob,uk,0,ob,uk,ob_uk,1935,briefly together,0,0.37,PHG,ENK,0,smaller
+8/24/15,ua,dc2,ob,ENK,PHG,F,F,different,dc,2,Dispersal 1,ob,ua,1,ob,ua,ob_ua,1875,briefly together,0,0.56,PHG,ENK,0,smaller
+8/24/15,ua,dc2,ob,ENK,PHG,F,F,different,dc,2,Dispersal 1,ob,ua,1,ob,ua,ob_ua,1875,briefly together,0,0.56,PHG,ENK,0,smaller
+8/24/15,ua,dn1,ob,ENK,PHG,F,F,different,dn,1,Dispersal 1,ua,ob,0,ob,ua,ob_ua,1875,briefly together,0,0.56,ENK,PHG,1,smaller
+8/24/15,ua,dn1,ob,ENK,PHG,F,F,different,dn,1,Dispersal 1,ua,ob,0,ob,ua,ob_ua,1875,briefly together,0,0.56,ENK,PHG,1,smaller
+9/1/15,ux,dp2,ob,ENK,PHG,F,F,different,dp,2,Dispersal 1,ob,ux,0,ob,ux,ob_ux,1935,split apart,0,0.44,PHG,ENK,0,smaller
+9/1/15,ux,dp2,ob,ENK,PHG,F,F,different,dp,2,Dispersal 1,ob,ux,0,ob,ux,ob_ux,1935,split apart,0,0.44,PHG,ENK,0,smaller
+9/18/15,ty,dt1,ut,PHG,ENK,F,F,different,dt,1,Dispersal 1,ty,ut,0,ty,ut,ty_ut,1830,never together,0,0.22,PHG,ENK,1,larger
+9/18/15,ty,dt1,ut,PHG,ENK,F,F,different,dt,1,Dispersal 1,ty,ut,0,ty,ut,ty_ut,1830,never together,0,0.22,PHG,ENK,1,larger
+9/21/15,bf,dc1,ux,PHG,ENK,F,F,different,dc,1,Dispersal 1,bf,ux,1,bf,ux,bf_ux,1980,split apart,0,1.00,PHG,ENK,1,larger
+9/21/15,bf,dc1,ux,PHG,ENK,F,F,different,dc,1,Dispersal 1,bf,ux,1,bf,ux,bf_ux,1980,split apart,0,1.00,PHG,ENK,1,larger
+9/21/15,uv,dp2,fd,ENK,PHG,F,F,different,dp,2,Dispersal 1,fd,uv,0,fd,uv,fd_uv,1875,never together,0,0.07,PHG,ENK,0,smaller
+9/21/15,uv,dp2,fd,ENK,PHG,F,F,different,dp,2,Dispersal 1,fd,uv,0,fd,uv,fd_uv,1875,never together,0,0.07,PHG,ENK,0,smaller
+9/21/15,uv,dt1,fd,ENK,PHG,F,F,different,dt,1,Dispersal 1,uv,fd,0,fd,uv,fd_uv,1875,never together,0,0.07,ENK,PHG,1,smaller
+9/21/15,uv,dt1,fd,ENK,PHG,F,F,different,dt,1,Dispersal 1,uv,fd,0,fd,uv,fd_uv,1875,never together,0,0.07,ENK,PHG,1,smaller
+9/21/15,uv,dt2,fd,ENK,PHG,F,F,different,dt,2,Dispersal 1,fd,uv,0,fd,uv,fd_uv,1875,never together,0,0.07,PHG,ENK,0,smaller
+9/21/15,uv,dt2,fd,ENK,PHG,F,F,different,dt,2,Dispersal 1,fd,uv,0,fd,uv,fd_uv,1875,never together,0,0.07,PHG,ENK,0,smaller
+9/22/15,oo,dd1,uk,PHG,ENK,F,F,different,dd,1,Dispersal 1,oo,uk,0,oo,uk,oo_uk,1920,briefly together,0,0.58,PHG,ENK,1,larger
+9/22/15,oo,dd1,uk,PHG,ENK,F,F,different,dd,1,Dispersal 1,oo,uk,0,oo,uk,oo_uk,1920,briefly together,0,0.58,PHG,ENK,1,larger
+10/1/15,ut,dc2,fd,ENK,PHG,F,F,different,dc,2,Dispersal 2,fd,ut,1,fd,ut,fd_ut,1695,never together,0,0.71,PHG,ENK,0,smaller
+10/1/15,ut,dc2,fd,ENK,PHG,F,F,different,dc,2,Dispersal 2,fd,ut,1,fd,ut,fd_ut,1695,never together,0,0.71,PHG,ENK,0,smaller
+10/2/15,ut,dp2,oy,ENK,PHG,F,F,different,dp,2,Dispersal 2,oy,ut,0,oy,ut,oy_ut,1725,never together,0,0.15,PHG,ENK,0,smaller
+10/2/15,ut,dp2,oy,ENK,PHG,F,F,different,dp,2,Dispersal 2,oy,ut,0,oy,ut,oy_ut,1725,never together,0,0.15,PHG,ENK,0,smaller
+10/2/15,ut,dp2,ur,ENK,PHG,F,F,different,dp,2,Dispersal 2,ur,ut,0,ur,ut,ur_ut,1725,never together,0.25,0.30,PHG,ENK,0,smaller
+10/2/15,ut,dp2,ur,ENK,PHG,F,F,different,dp,2,Dispersal 2,ur,ut,0,ur,ut,ur_ut,1725,never together,0.25,0.30,PHG,ENK,0,smaller
+10/31/15,ob,dc2,ur,ENK,PHG,F,F,different,dc,2,Dispersal 2,ur,ob,1,ob,ur,ob_ur,1695,split apart,0,0.05,PHG,ENK,0,smaller
+10/31/15,ob,dc2,ur,ENK,PHG,F,F,different,dc,2,Dispersal 2,ur,ob,1,ob,ur,ob_ur,1695,split apart,0,0.05,PHG,ENK,0,smaller
+11/3/15,tr,dd2,ur,ENK,PHG,F,F,different,dd,2,Dispersal 2,ur,tr,0,tr,ur,tr_ur,1695,split apart,0,0.20,PHG,ENK,0,smaller
+11/3/15,tr,dd2,ur,ENK,PHG,F,F,different,dd,2,Dispersal 2,ur,tr,0,tr,ur,tr_ur,1695,split apart,0,0.20,PHG,ENK,0,smaller
+11/4/15,ut,dc1,ty,ENK,PHG,F,F,different,dc,1,Dispersal 2,ut,ty,1,ty,ut,ty_ut,1695,never together,0,0.22,ENK,PHG,1,smaller
+11/4/15,ut,dc1,ty,ENK,PHG,F,F,different,dc,1,Dispersal 2,ut,ty,1,ty,ut,ty_ut,1695,never together,0,0.22,ENK,PHG,1,smaller
+11/23/15,yp,dp1,o6,PHG,ENK,F,F,different,dp,1,Dispersal 2,yp,o6,0,o6,yp,o6_yp,1680,split apart,0,0.79,PHG,ENK,1,larger
+11/23/15,yp,dp1,o6,PHG,ENK,F,F,different,dp,1,Dispersal 2,yp,o6,0,o6,yp,o6_yp,1680,split apart,0,0.79,PHG,ENK,1,larger
+12/5/15,ty,dn1,uk,PHG,ENK,F,F,different,dn,1,Dispersal 2,ty,uk,0,ty,uk,ty_uk,1710,never together,0,0.33,PHG,ENK,1,larger
+12/5/15,ty,dn1,uk,PHG,ENK,F,F,different,dn,1,Dispersal 2,ty,uk,0,ty,uk,ty_uk,1710,never together,0,0.33,PHG,ENK,1,larger
+12/7/15,tr,dp2,ur,ENK,PHG,F,F,different,dp,2,Dispersal 2,ur,tr,0,tr,ur,tr_ur,1695,split apart,0,0.20,PHG,ENK,0,smaller
+12/7/15,tr,dp2,ur,ENK,PHG,F,F,different,dp,2,Dispersal 2,ur,tr,0,tr,ur,tr_ur,1695,split apart,0,0.20,PHG,ENK,0,smaller
+1/13/16,uk,dd2,fx,ENK,PHG,F,F,different,dd,2,Dispersal 2,fx,uk,0,fx,uk,fx_uk,1755,never together,0,0.76,PHG,ENK,0,smaller
+1/13/16,uk,dd2,fx,ENK,PHG,F,F,different,dd,2,Dispersal 2,fx,uk,0,fx,uk,fx_uk,1755,never together,0,0.76,PHG,ENK,0,smaller
+1/13/16,uz,db2,by,PHG,ENK,F,F,different,db,2,Dispersal 2,by,uz,0,by,uz,by_uz,1755,never together,0,0.03,ENK,PHG,0,larger
+1/13/16,uz,db2,by,PHG,ENK,F,F,different,db,2,Dispersal 2,by,uz,0,by,uz,by_uz,1755,never together,0,0.03,ENK,PHG,0,larger
+1/13/16,uz,dc2,by,PHG,ENK,F,F,different,dc,2,Dispersal 2,by,uz,1,by,uz,by_uz,1755,never together,0,0.03,ENK,PHG,0,larger
+1/13/16,uz,dc2,by,PHG,ENK,F,F,different,dc,2,Dispersal 2,by,uz,1,by,uz,by_uz,1755,never together,0,0.03,ENK,PHG,0,larger
+1/13/16,uz,dc2,by,PHG,ENK,F,F,different,dc,2,Dispersal 2,by,uz,1,by,uz,by_uz,1755,never together,0,0.03,ENK,PHG,0,larger
+1/13/16,uz,dc2,by,PHG,ENK,F,F,different,dc,2,Dispersal 2,by,uz,1,by,uz,by_uz,1755,never together,0,0.03,ENK,PHG,0,larger
+1/13/16,uz,dc2,by,PHG,ENK,F,F,different,dc,2,Dispersal 2,by,uz,1,by,uz,by_uz,1755,never together,0,0.03,ENK,PHG,0,larger
+1/13/16,uz,dc2,by,PHG,ENK,F,F,different,dc,2,Dispersal 2,by,uz,1,by,uz,by_uz,1755,never together,0,0.03,ENK,PHG,0,larger
+1/15/16,fx,dp1,oa,PHG,ENK,F,F,different,dp,1,Dispersal 2,fx,oa,0,fx,oa,fx_oa,1725,split apart,0,0.15,PHG,ENK,1,larger
+1/15/16,fx,dp1,oa,PHG,ENK,F,F,different,dp,1,Dispersal 2,fx,oa,0,fx,oa,fx_oa,1725,split apart,0,0.15,PHG,ENK,1,larger
+1/15/16,fx,dp1,ux,PHG,ENK,F,F,different,dp,1,Dispersal 2,fx,ux,0,fx,ux,fx_ux,1740,split apart,0,0.82,PHG,ENK,1,larger
+1/15/16,fx,dp1,ux,PHG,ENK,F,F,different,dp,1,Dispersal 2,fx,ux,0,fx,ux,fx_ux,1740,split apart,0,0.82,PHG,ENK,1,larger
+1/21/16,oa,dd2,fx,ENK,PHG,F,F,different,dd,2,Dispersal 2,fx,oa,0,fx,oa,fx_oa,1725,split apart,0,0.15,PHG,ENK,0,smaller
+1/21/16,oa,dd2,fx,ENK,PHG,F,F,different,dd,2,Dispersal 2,fx,oa,0,fx,oa,fx_oa,1725,split apart,0,0.15,PHG,ENK,0,smaller
+5/18/16,uv,dp1,oo,ENK,YNT,F,F,different,dp,1,Fission,uv,oo,0,oo,uv,oo_uv,4020,briefly together,0,0.17,ENK,YNT,1,larger
+5/30/16,qz,dt1,ob,ENK,YNT,F,F,different,dt,1,Fission,qz,ob,0,ob,qz,ob_qz,4035,briefly together,0,0.27,ENK,YNT,1,larger
+5/30/16,qz,dt2,ob,ENK,YNT,F,F,different,dt,2,Fission,ob,qz,0,ob,qz,ob_qz,4035,briefly together,0,0.27,YNT,ENK,0,larger
+6/10/16,tr,dc1,qz,YNT,ENK,F,F,different,dc,1,Fission,tr,qz,1,qz,tr,qz_tr,4020,briefly together,0,0.03,YNT,ENK,1,smaller
+7/2/16,oa,db2,qn,YNT,ENK,F,F,different,db,2,Fission,qn,oa,0,oa,qn,oa_qn,4020,briefly together,0,0.11,ENK,YNT,0,smaller
+7/4/16,qc,dp1,oo,ENK,YNT,F,F,different,dp,1,Fission,qc,oo,0,oo,qc,oo_qc,4065,briefly together,0,0.01,ENK,YNT,1,larger
+7/11/16,fx,dp1,ux,PHG,ENK,F,F,different,dp,1,Fission,fx,ux,0,fx,ux,fx_ux,4170,split apart,0,0.82,PHG,ENK,1,larger
+7/11/16,fx,dt1,ux,PHG,ENK,F,F,different,dt,1,Fission,fx,ux,0,fx,ux,fx_ux,4170,split apart,0,0.82,PHG,ENK,1,larger
+7/11/16,fx,dt1,ux,PHG,ENK,F,F,different,dt,1,Fission,fx,ux,0,fx,ux,fx_ux,4170,split apart,0,0.82,PHG,ENK,1,larger
+7/15/16,qp,dp1,o6,ENK,YNT,F,F,different,dp,1,Fission,qp,o6,0,o6,qp,o6_qp,4020,briefly together,0,0.25,ENK,YNT,1,larger
+8/5/16,ob,dp2,qp,YNT,ENK,F,F,different,dp,2,Fission,qp,ob,0,ob,qp,ob_qp,4035,briefly together,0,0.04,ENK,YNT,0,smaller
+8/8/16,ob,dn2,uk,YNT,ENK,F,F,different,dn,2,Fission,uk,ob,0,ob,uk,ob_uk,4035,briefly together,0,0.37,ENK,YNT,0,smaller
+8/8/16,ob,dt2,uk,YNT,ENK,F,F,different,dt,2,Fission,uk,ob,0,ob,uk,ob_uk,4035,briefly together,0,0.37,ENK,YNT,0,smaller
+8/12/16,ob,dt2,ty,YNT,PHG,F,F,different,dt,2,Fission,ty,ob,0,ob,ty,ob_ty,4005,split apart,0,0.04,PHG,YNT,0,smaller
+8/12/16,oo,dt2,fx,YNT,PHG,F,F,different,dt,2,Fission,fx,oo,0,fx,oo,fx_oo,4020,split apart,0,0.18,PHG,YNT,0,smaller
+9/14/16,uj,dn1,ob,PHG,YNT,F,F,different,dn,1,Fission,uj,ob,0,ob,uj,ob_uj,3975,split apart,0,0.18,PHG,YNT,1,larger
+9/14/16,uj,dn1,ob,PHG,YNT,F,F,different,dn,1,Fission,uj,ob,0,ob,uj,ob_uj,3975,split apart,0,0.18,PHG,YNT,1,larger
+9/14/16,uj,dn2,ob,PHG,YNT,F,F,different,dn,2,Fission,ob,uj,0,ob,uj,ob_uj,3975,split apart,0,0.18,YNT,PHG,0,larger
+9/14/16,uj,dt1,ob,PHG,YNT,F,F,different,dt,1,Fission,uj,ob,0,ob,uj,ob_uj,3975,split apart,0,0.18,PHG,YNT,1,larger
+9/14/16,uj,dt1,ob,PHG,YNT,F,F,different,dt,1,Fission,uj,ob,0,ob,uj,ob_uj,3975,split apart,0,0.18,PHG,YNT,1,larger
+9/14/16,uj,dt1,ob,PHG,YNT,F,F,different,dt,1,Fission,uj,ob,0,ob,uj,ob_uj,3975,split apart,0,0.18,PHG,YNT,1,larger
+9/14/16,uj,dt1,ob,PHG,YNT,F,F,different,dt,1,Fission,uj,ob,0,ob,uj,ob_uj,3975,split apart,0,0.18,PHG,YNT,1,larger
+9/14/16,uj,dt2,ob,PHG,YNT,F,F,different,dt,2,Fission,ob,uj,0,ob,uj,ob_uj,3975,split apart,0,0.18,YNT,PHG,0,larger
+9/16/16,uv,dp1,gy,ENK,PHG,F,F,different,dp,1,Fission,uv,gy,0,gy,uv,gy_uv,4155,never together,0,0.24,ENK,PHG,1,smaller
+9/16/16,uv,dt1,gy,ENK,PHG,F,F,different,dt,1,Fission,uv,gy,0,gy,uv,gy_uv,4155,never together,0,0.24,ENK,PHG,1,smaller
+9/19/16,gy,dt1,uv,PHG,ENK,F,F,different,dt,1,Fission,gy,uv,0,gy,uv,gy_uv,4155,never together,0,0.24,PHG,ENK,1,larger
+9/19/16,uv,dc1,ug,ENK,PHG,F,F,different,dc,1,Fission,uv,ug,1,ug,uv,ug_uv,4155,never together,0,0.62,ENK,PHG,1,smaller
+9/19/16,uv,dn2,ug,ENK,PHG,F,F,different,dn,2,Fission,ug,uv,0,ug,uv,ug_uv,4155,never together,0,0.62,PHG,ENK,0,smaller
+9/19/16,uv,dt1,ug,ENK,PHG,F,F,different,dt,1,Fission,uv,ug,0,ug,uv,ug_uv,4155,never together,0,0.62,ENK,PHG,1,smaller
+9/22/16,ux,dt1,oa,ENK,YNT,F,F,different,dt,1,Fission,ux,oa,0,oa,ux,oa_ux,4005,split apart,0,0.67,ENK,YNT,1,larger
+9/22/16,ux,dt1,oa,ENK,YNT,F,F,different,dt,1,Fission,ux,oa,0,oa,ux,oa_ux,4005,split apart,0,0.67,ENK,YNT,1,larger
+9/22/16,ux,dt1,oa,ENK,YNT,F,F,different,dt,1,Fission,ux,oa,0,oa,ux,oa_ux,4005,split apart,0,0.67,ENK,YNT,1,larger
+9/23/16,o6,dn2,qp,YNT,ENK,F,F,different,dn,2,Fission,qp,o6,0,o6,qp,o6_qp,4020,briefly together,0,0.25,ENK,YNT,0,smaller
+9/23/16,o6,dn2,qp,YNT,ENK,F,F,different,dn,2,Fission,qp,o6,0,o6,qp,o6_qp,4020,briefly together,0,0.25,ENK,YNT,0,smaller
+9/23/16,o6,dp2,qp,YNT,ENK,F,F,different,dp,2,Fission,qp,o6,0,o6,qp,o6_qp,4020,briefly together,0,0.25,ENK,YNT,0,smaller
+9/23/16,o6,dp2,qp,YNT,ENK,F,F,different,dp,2,Fission,qp,o6,0,o6,qp,o6_qp,4020,briefly together,0,0.25,ENK,YNT,0,smaller
+9/23/16,o6,dt2,qp,YNT,ENK,F,F,different,dt,2,Fission,qp,o6,0,o6,qp,o6_qp,4020,briefly together,0,0.25,ENK,YNT,0,smaller
+9/23/16,o6,dt2,qp,YNT,ENK,F,F,different,dt,2,Fission,qp,o6,0,o6,qp,o6_qp,4020,briefly together,0,0.25,ENK,YNT,0,smaller
+9/23/16,o6,dt2,qp,YNT,ENK,F,F,different,dt,2,Fission,qp,o6,0,o6,qp,o6_qp,4020,briefly together,0,0.25,ENK,YNT,0,smaller
+9/23/16,o6,dt2,qp,YNT,ENK,F,F,different,dt,2,Fission,qp,o6,0,o6,qp,o6_qp,4020,briefly together,0,0.25,ENK,YNT,0,smaller
+9/24/16,ux,dn1,oo,ENK,YNT,F,F,different,dn,1,Fission,ux,oo,0,oo,ux,oo_ux,4020,split apart,0,0.65,ENK,YNT,1,larger
+9/24/16,ux,dt1,oo,ENK,YNT,F,F,different,dt,1,Fission,ux,oo,0,oo,ux,oo_ux,4020,split apart,0,0.65,ENK,YNT,1,larger
+9/27/16,oo,dn2,qn,YNT,ENK,F,F,different,dn,2,Fission,qn,oo,0,oo,qn,oo_qn,4035,briefly together,0,0.09,ENK,YNT,0,smaller
+9/27/16,oo,dt2,qn,YNT,ENK,F,F,different,dt,2,Fission,qn,oo,0,oo,qn,oo_qn,4035,briefly together,0,0.09,ENK,YNT,0,smaller
+9/28/16,ux,dn1,oa,ENK,YNT,F,F,different,dn,1,Fission,ux,oa,0,oa,ux,oa_ux,4005,split apart,0,0.67,ENK,YNT,1,larger
+9/28/16,ux,dt1,oa,ENK,YNT,F,F,different,dt,1,Fission,ux,oa,0,oa,ux,oa_ux,4005,split apart,0,0.67,ENK,YNT,1,larger
+10/3/16,o6,dn2,ux,YNT,ENK,F,F,different,dn,2,Fission,ux,o6,0,o6,ux,o6_ux,4005,split apart,0,0.14,ENK,YNT,0,smaller
+10/3/16,o6,dp2,ux,YNT,ENK,F,F,different,dp,2,Fission,ux,o6,0,o6,ux,o6_ux,4005,split apart,0,0.14,ENK,YNT,0,smaller
+10/3/16,o6,dt2,ux,YNT,ENK,F,F,different,dt,2,Fission,ux,o6,0,o6,ux,o6_ux,4005,split apart,0,0.14,ENK,YNT,0,smaller
+10/3/16,o6,dt2,ux,YNT,ENK,F,F,different,dt,2,Fission,ux,o6,0,o6,ux,o6_ux,4005,split apart,0,0.14,ENK,YNT,0,smaller
+10/3/16,qp,dc2,ug,ENK,PHG,F,F,different,dc,2,Fission,ug,qp,1,qp,ug,qp_ug,4170,never together,0,0.20,PHG,ENK,0,smaller
+10/3/16,qp,dn1,ob,ENK,YNT,F,F,different,dn,1,Fission,qp,ob,0,ob,qp,ob_qp,4035,briefly together,0,0.04,ENK,YNT,1,larger
+10/3/16,qp,dt1,ob,ENK,YNT,F,F,different,dt,1,Fission,qp,ob,0,ob,qp,ob_qp,4035,briefly together,0,0.04,ENK,YNT,1,larger
+10/15/16,un,db2,ut,PHG,ENK,F,F,different,db,2,Fission,ut,un,0,un,ut,un_ut,4200,never together,0.25,0.08,ENK,PHG,0,larger
+10/15/16,un,dc2,ut,PHG,ENK,F,F,different,dc,2,Fission,ut,un,1,un,ut,un_ut,4200,never together,0.25,0.08,ENK,PHG,0,larger
+10/15/16,un,dt2,ut,PHG,ENK,F,F,different,dt,2,Fission,ut,un,0,un,ut,un_ut,4200,never together,0.25,0.08,ENK,PHG,0,larger
+11/3/16,ux,dn1,oo,ENK,YNT,F,F,different,dn,1,Fission,ux,oo,0,oo,ux,oo_ux,4020,split apart,0,0.65,ENK,YNT,1,larger
+11/3/16,ux,dp1,oo,ENK,YNT,F,F,different,dp,1,Fission,ux,oo,0,oo,ux,oo_ux,4020,split apart,0,0.65,ENK,YNT,1,larger
+11/3/16,ux,dt1,oo,ENK,YNT,F,F,different,dt,1,Fission,ux,oo,0,oo,ux,oo_ux,4020,split apart,0,0.65,ENK,YNT,1,larger
+11/5/16,qc,dd1,ob,ENK,YNT,F,F,different,dd,1,Fission,qc,ob,0,ob,qc,ob_qc,4065,briefly together,0,0.20,ENK,YNT,1,larger
+1/31/17,qc,dn1,gr,ENK,PHG,F,F,different,dn,1,Fission,qc,gr,0,gr,qc,gr_qc,4245,never together,0,0.26,ENK,PHG,1,smaller
+1/31/17,qc,dt1,gr,ENK,PHG,F,F,different,dt,1,Fission,qc,gr,0,gr,qc,gr_qc,4245,never together,0,0.26,ENK,PHG,1,smaller
+1/31/17,qc,dt1,gr,ENK,PHG,F,F,different,dt,1,Fission,qc,gr,0,gr,qc,gr_qc,4245,never together,0,0.26,ENK,PHG,1,smaller
+1/31/17,qc,dt1,gr,ENK,PHG,F,F,different,dt,1,Fission,qc,gr,0,gr,qc,gr_qc,4245,never together,0,0.26,ENK,PHG,1,smaller
+1/31/17,qc,dt2,fx,ENK,PHG,F,F,different,dt,2,Fission,fx,qc,0,fx,qc,fx_qc,4215,never together,0,0.19,PHG,ENK,0,smaller
+1/31/17,qc,dt2,gr,ENK,PHG,F,F,different,dt,2,Fission,gr,qc,0,gr,qc,gr_qc,4245,never together,0,0.26,PHG,ENK,0,smaller
+2/2/17,uv,dt1,gr,ENK,PHG,F,F,different,dt,1,Fission,uv,gr,0,gr,uv,gr_uv,4200,never together,0,0.44,ENK,PHG,1,smaller
+2/2/17,uv,dt1,gr,ENK,PHG,F,F,different,dt,1,Fission,uv,gr,0,gr,uv,gr_uv,4200,never together,0,0.44,ENK,PHG,1,smaller
+2/2/17,uv,dt2,gr,ENK,PHG,F,F,different,dt,2,Fission,gr,uv,0,gr,uv,gr_uv,4200,never together,0,0.44,PHG,ENK,0,smaller
+2/4/17,o6,dn2,uk,YNT,ENK,F,F,different,dn,2,Fission,uk,o6,0,o6,uk,o6_uk,4020,briefly together,0,0.08,ENK,YNT,0,smaller
+2/4/17,o6,dt2,uk,YNT,ENK,F,F,different,dt,2,Fission,uk,o6,0,o6,uk,o6_uk,4020,briefly together,0,0.08,ENK,YNT,0,smaller
+2/4/17,o6,dt2,ut,YNT,ENK,F,F,different,dt,2,Fission,ut,o6,0,o6,ut,o6_ut,4035,briefly together,0,0.04,ENK,YNT,0,smaller
+2/4/17,o6,dt2,ut,YNT,ENK,F,F,different,dt,2,Fission,ut,o6,0,o6,ut,o6_ut,4035,briefly together,0,0.04,ENK,YNT,0,smaller
+2/4/17,ob,dc2,fd,YNT,PHG,F,F,different,dc,2,Fission,fd,ob,1,fd,ob,fd_ob,4005,split apart,0,0.46,PHG,YNT,0,smaller
+2/4/17,ob,dt2,fd,YNT,PHG,F,F,different,dt,2,Fission,fd,ob,0,fd,ob,fd_ob,4005,split apart,0,0.46,PHG,YNT,0,smaller
+2/4/17,qc,dn1,ob,ENK,YNT,F,F,different,dn,1,Fission,qc,ob,0,ob,qc,ob_qc,4065,briefly together,0,0.20,ENK,YNT,1,larger
+2/4/17,uk,dn1,ob,ENK,YNT,F,F,different,dn,1,Fission,uk,ob,0,ob,uk,ob_uk,4035,briefly together,0,0.37,ENK,YNT,1,larger
+2/4/17,uk,dt1,ob,ENK,YNT,F,F,different,dt,1,Fission,uk,ob,0,ob,uk,ob_uk,4035,briefly together,0,0.37,ENK,YNT,1,larger
+2/7/17,oo,dc1,co,YNT,PHG,F,F,different,dc,1,Fission,oo,co,1,co,oo,co_oo,3495,split apart,0,0.51,YNT,PHG,1,smaller
+2/7/17,oo,dt1,co,YNT,PHG,F,F,different,dt,1,Fission,oo,co,0,co,oo,co_oo,3495,split apart,0,0.51,YNT,PHG,1,smaller
+2/7/17,oy,dp1,ob,PHG,YNT,F,F,different,dp,1,Fission,oy,ob,0,ob,oy,ob_oy,4020,split apart,0.25,0.41,PHG,YNT,1,larger
+2/7/17,oy,dt1,ob,PHG,YNT,F,F,different,dt,1,Fission,oy,ob,0,ob,oy,ob_oy,4020,split apart,0.25,0.41,PHG,YNT,1,larger
+2/7/17,oy,dt1,ob,PHG,YNT,F,F,different,dt,1,Fission,oy,ob,0,ob,oy,ob_oy,4020,split apart,0.25,0.41,PHG,YNT,1,larger
+2/7/17,oy,dt1,ob,PHG,YNT,F,F,different,dt,1,Fission,oy,ob,0,ob,oy,ob_oy,4020,split apart,0.25,0.41,PHG,YNT,1,larger
+2/7/17,oy,dt1,ob,PHG,YNT,F,F,different,dt,1,Fission,oy,ob,0,ob,oy,ob_oy,4020,split apart,0.25,0.41,PHG,YNT,1,larger
+2/7/17,oy,dt1,ob,PHG,YNT,F,F,different,dt,1,Fission,oy,ob,0,ob,oy,ob_oy,4020,split apart,0.25,0.41,PHG,YNT,1,larger
+2/7/17,oy,dt2,ob,PHG,YNT,F,F,different,dt,2,Fission,ob,oy,0,ob,oy,ob_oy,4020,split apart,0.25,0.41,YNT,PHG,0,larger
+2/10/17,uv,dp1,gy,ENK,PHG,F,F,different,dp,1,Fission,uv,gy,0,gy,uv,gy_uv,4155,never together,0,0.24,ENK,PHG,1,smaller
+2/13/17,ob,dn2,ua,YNT,ENK,F,F,different,dn,2,Fission,ua,ob,0,ob,ua,ob_ua,4050,briefly together,0,0.56,ENK,YNT,0,smaller
+2/13/17,ob,dp2,ua,YNT,ENK,F,F,different,dp,2,Fission,ua,ob,0,ob,ua,ob_ua,4050,briefly together,0,0.56,ENK,YNT,0,smaller
+2/13/17,ob,dt2,ua,YNT,ENK,F,F,different,dt,2,Fission,ua,ob,0,ob,ua,ob_ua,4050,briefly together,0,0.56,ENK,YNT,0,smaller
+2/13/17,tr,db2,ux,YNT,ENK,F,F,different,db,2,Fission,ux,tr,0,tr,ux,tr_ux,4005,split apart,0,0.68,ENK,YNT,0,smaller
+2/13/17,tr,dp2,ux,YNT,ENK,F,F,different,dp,2,Fission,ux,tr,0,tr,ux,tr_ux,4005,split apart,0,0.68,ENK,YNT,0,smaller
+2/13/17,tr,dp2,ux,YNT,ENK,F,F,different,dp,2,Fission,ux,tr,0,tr,ux,tr_ux,4005,split apart,0,0.68,ENK,YNT,0,smaller
+2/13/17,tr,dp2,ux,YNT,ENK,F,F,different,dp,2,Fission,ux,tr,0,tr,ux,tr_ux,4005,split apart,0,0.68,ENK,YNT,0,smaller
+2/13/17,tr,dp2,ux,YNT,ENK,F,F,different,dp,2,Fission,ux,tr,0,tr,ux,tr_ux,4005,split apart,0,0.68,ENK,YNT,0,smaller
+2/13/17,tr,dt2,qc,YNT,ENK,F,F,different,dt,2,Fission,qc,tr,0,qc,tr,qc_tr,4050,briefly together,0,0.05,ENK,YNT,0,smaller
+2/13/17,tr,dt2,ux,YNT,ENK,F,F,different,dt,2,Fission,ux,tr,0,tr,ux,tr_ux,4005,split apart,0,0.68,ENK,YNT,0,smaller
+2/13/17,tr,dt2,ux,YNT,ENK,F,F,different,dt,2,Fission,ux,tr,0,tr,ux,tr_ux,4005,split apart,0,0.68,ENK,YNT,0,smaller
+2/14/17,uk,dc1,ob,ENK,YNT,F,F,different,dc,1,Fission,uk,ob,1,ob,uk,ob_uk,4035,briefly together,0,0.37,ENK,YNT,1,larger
+2/14/17,uk,dn1,ob,ENK,YNT,F,F,different,dn,1,Fission,uk,ob,0,ob,uk,ob_uk,4035,briefly together,0,0.37,ENK,YNT,1,larger
+2/14/17,uk,dt1,ob,ENK,YNT,F,F,different,dt,1,Fission,uk,ob,0,ob,uk,ob_uk,4035,briefly together,0,0.37,ENK,YNT,1,larger
+2/18/17,yp,dt1,uk,PHG,ENK,F,F,different,dt,1,Fission,yp,uk,0,uk,yp,uk_yp,4155,never together,0,0.87,PHG,ENK,1,larger
+2/21/17,tr,dt2,qn,YNT,ENK,F,F,different,dt,2,Fission,qn,tr,0,qn,tr,qn_tr,4020,briefly together,0,0.12,ENK,YNT,0,smaller
+3/3/17,tr,db2,qn,YNT,ENK,F,F,different,db,2,Fission,qn,tr,0,qn,tr,qn_tr,4020,briefly together,0,0.12,ENK,YNT,0,smaller
+3/4/17,co,dt1,tr,PHG,YNT,F,F,different,dt,1,Fission,co,tr,0,co,tr,co_tr,3480,split apart,0,0.55,PHG,YNT,1,larger
+3/27/17,o6,dt2,ux,YNT,ENK,F,F,different,dt,2,Fission,ux,o6,0,o6,ux,o6_ux,4005,split apart,0,0.14,ENK,YNT,0,smaller
+4/24/17,ob,dn2,ut,YNT,ENK,F,F,different,dn,2,Fission,ut,ob,0,ob,ut,ob_ut,4050,briefly together,0,0.25,ENK,YNT,0,smaller
+4/24/17,ob,dt2,ut,YNT,ENK,F,F,different,dt,2,Fission,ut,ob,0,ob,ut,ob_ut,4050,briefly together,0,0.25,ENK,YNT,0,smaller
+5/6/17,qc,dn1,oy,ENK,PHG,F,F,different,dn,1,Fission,qc,oy,0,oy,qc,oy_qc,4215,never together,0,0.61,ENK,PHG,1,smaller
+5/6/17,qc,dt1,oy,ENK,PHG,F,F,different,dt,1,Fission,qc,oy,0,oy,qc,oy_qc,4215,never together,0,0.61,ENK,PHG,1,smaller
+5/6/17,qn,dn1,oy,ENK,PHG,F,F,different,dn,1,Fission,qn,oy,0,oy,qn,oy_qn,4185,never together,0,0.53,ENK,PHG,1,smaller
+5/6/17,qn,dt1,oy,ENK,PHG,F,F,different,dt,1,Fission,qn,oy,0,oy,qn,oy_qn,4185,never together,0,0.53,ENK,PHG,1,smaller
+5/12/17,uk,dn1,oo,ENK,YNT,F,F,different,dn,1,Fission,uk,oo,0,oo,uk,oo_uk,4035,briefly together,0,0.58,ENK,YNT,1,larger
+5/12/17,uk,dt1,oo,ENK,YNT,F,F,different,dt,1,Fission,uk,oo,0,oo,uk,oo_uk,4035,briefly together,0,0.58,ENK,YNT,1,larger
+5/22/17,oa,dt2,uj,YNT,PHG,F,F,different,dt,2,Fission,uj,oa,0,oa,uj,oa_uj,3960,split apart,0,0.42,PHG,YNT,0,smaller
+5/24/17,co,dp2,qn,PHG,ENK,F,F,different,dp,2,Fission,qn,co,0,co,qn,co_qn,3675,never together,0,0.43,ENK,PHG,0,larger
+5/24/17,co,dt1,qc,PHG,ENK,F,F,different,dt,1,Fission,co,qc,0,co,qc,co_qc,3690,never together,0,0.50,PHG,ENK,1,larger
+5/24/17,co,dt2,qc,PHG,ENK,F,F,different,dt,2,Fission,qc,co,0,co,qc,co_qc,3690,never together,0,0.50,ENK,PHG,0,larger
+5/24/17,co,dt2,qn,PHG,ENK,F,F,different,dt,2,Fission,qn,co,0,co,qn,co_qn,3675,never together,0,0.43,ENK,PHG,0,larger
+5/25/17,fx,dn1,ux,PHG,ENK,F,F,different,dn,1,Fission,fx,ux,0,fx,ux,fx_ux,4170,split apart,0,0.82,PHG,ENK,1,larger
+6/9/17,qc,dt1,uj,ENK,PHG,F,F,different,dt,1,Fission,qc,uj,0,qc,uj,qc_uj,4170,never together,0,0.38,ENK,PHG,1,smaller
+8/19/17,ob,dt1,oy,YNT,PHG,F,F,different,dt,1,Fission,ob,oy,0,ob,oy,ob_oy,4020,split apart,0.25,0.41,YNT,PHG,1,smaller
+8/23/17,uj,dc2,qz,PHG,ENK,F,F,different,dc,2,Fission,qz,uj,1,qz,uj,qz_uj,4140,never together,0,0.46,ENK,PHG,0,larger
+8/25/17,qn,dp2,uj,ENK,PHG,F,F,different,dp,2,Fission,uj,qn,0,qn,uj,qn_uj,4140,never together,0,0.30,PHG,ENK,0,smaller
+8/25/17,qn,dt1,ty,ENK,PHG,F,F,different,dt,1,Fission,qn,ty,0,qn,ty,qn_ty,4170,never together,0,0.16,ENK,PHG,1,smaller
+8/25/17,qn,dt1,uj,ENK,PHG,F,F,different,dt,1,Fission,qn,uj,0,qn,uj,qn_uj,4140,never together,0,0.30,ENK,PHG,1,smaller
+8/25/17,qn,dt2,uj,ENK,PHG,F,F,different,dt,2,Fission,uj,qn,0,qn,uj,qn_uj,4140,never together,0,0.30,PHG,ENK,0,smaller
+8/31/17,qz,dt1,ty,ENK,PHG,F,F,different,dt,1,Fission,qz,ty,0,qz,ty,qz_ty,4170,never together,0,0.31,ENK,PHG,1,smaller
+8/31/17,qz,dt1,ty,ENK,PHG,F,F,different,dt,1,Fission,qz,ty,0,qz,ty,qz_ty,4170,never together,0,0.31,ENK,PHG,1,smaller
+9/5/17,tr,dp2,qn,YNT,ENK,F,F,different,dp,2,Fission,qn,tr,0,qn,tr,qn_tr,4020,briefly together,0,0.12,ENK,YNT,0,smaller
+9/8/17,ux,dt2,oa,ENK,YNT,F,F,different,dt,2,Fission,oa,ux,0,oa,ux,oa_ux,4005,split apart,0,0.67,YNT,ENK,0,larger
+9/8/17,ux,dt2,ob,ENK,YNT,F,F,different,dt,2,Fission,ob,ux,0,ob,ux,ob_ux,4020,split apart,0,0.44,YNT,ENK,0,larger
