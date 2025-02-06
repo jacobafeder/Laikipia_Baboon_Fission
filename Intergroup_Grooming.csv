@@ -1,0 +1,289 @@
+focal,group,groomer.sex,Period,N.Focals,groomee.sex,N.Groom,N.Between,Groom.Duration,Between.Dur,Focal.Min,outcome,Between.Prop,sex.combo
+bf,PHG,f,Dispersal 1,68,f,8,0,15,0,1020,non-disperser,0.0000,ff
+bf,PHG,f,Dispersal 2,59,f,29,2,46,7,885,non-disperser,0.1522,ff
+bf,PHG,f,Fission,138,f,45,19,68,39,2070,non-disperser,0.5735,ff
+bf,PHG,f,Stable,148,f,17,0,20,0,2220,non-disperser,0.0000,ff
+bt,PHG,m,Dispersal 1,51,f,13,0,20,0,765,non-disperser,0.0000,mf
+bt,PHG,m,Dispersal 2,44,f,17,0,37,0,660,non-disperser,0.0000,mf
+bt,PHG,m,Fission,29,f,11,0,47,0,435,non-disperser,0.0000,mf
+bt,PHG,m,Stable,87,f,2,1,8,2,1305,non-disperser,0.2500,mf
+by,ENK,f,Dispersal 1,60,f,1,0,1,0,900,non-disperser,0.0000,ff
+by,ENK,f,Dispersal 2,57,f,4,0,9,0,855,non-disperser,0.0000,ff
+by,ENK,f,Stable,139,f,19,0,24,0,2085,non-disperser,0.0000,ff
+co,PHG,f,Fission,119,f,21,4,36,4,1785,non-disperser,0.1111,ff
+cr,PHG,f,Fission,84,f,24,0,29,0,1260,non-disperser,0.0000,ff
+dz,PHG,f,Dispersal 1,64,f,8,0,19,0,960,non-disperser,0.0000,ff
+dz,PHG,f,Dispersal 2,57,f,8,2,17,4,855,non-disperser,0.2353,ff
+dz,PHG,f,Fission,139,f,23,9,51,25,2085,non-disperser,0.4902,ff
+dz,PHG,f,Stable,148,f,10,0,17,0,2220,non-disperser,0.0000,ff
+ez,PHG,m,Dispersal 1,4,f,1,0,6,0,60,non-disperser,0.0000,mf
+ez,PHG,m,Stable,88,f,2,0,1,0,1320,non-disperser,0.0000,mf
+fd,PHG,f,Dispersal 1,64,f,18,4,26,5,960,non-disperser,0.1923,ff
+fd,PHG,f,Dispersal 2,56,f,21,1,48,2,840,non-disperser,0.0417,ff
+fd,PHG,f,Fission,138,f,70,8,131,19,2070,non-disperser,0.1450,ff
+fd,PHG,f,Stable,147,f,32,7,41,8,2205,non-disperser,0.1951,ff
+fx,PHG,f,Dispersal 1,68,f,2,0,3,0,1020,non-disperser,0.0000,ff
+fx,PHG,f,Dispersal 2,59,f,12,0,17,0,885,non-disperser,0.0000,ff
+fx,PHG,f,Fission,139,f,21,7,38,13,2085,non-disperser,0.3421,ff
+fx,PHG,f,Stable,150,f,30,1,61,13,2250,non-disperser,0.2131,ff
+gb,PHG,f,Fission,19,f,8,0,12,0,285,non-disperser,0.0000,ff
+gm,PHG,f,Dispersal 1,63,f,34,1,52,1,945,non-disperser,0.0192,ff
+gm,PHG,f,Dispersal 2,56,f,22,2,37,3,840,non-disperser,0.0811,ff
+gm,PHG,f,Fission,140,f,64,3,104,10,2100,non-disperser,0.0962,ff
+gr,PHG,f,Dispersal 2,25,f,3,0,2,0,375,non-disperser,0.0000,ff
+gr,PHG,f,Fission,141,f,18,0,38,0,2115,non-disperser,0.0000,ff
+gy,PHG,f,Dispersal 2,3,f,6,0,10,0,45,non-disperser,0.0000,ff
+gy,PHG,f,Fission,138,f,68,2,112,6,2070,non-disperser,0.0536,ff
+jj,ENK,m,Dispersal 1,51,f,11,0,20,0,765,disperser,0.0000,mf
+jj,ENK,m,Dispersal 2,43,f,15,0,23,0,645,disperser,0.0000,mf
+jj,ENK,m,Fission,4,f,25,8,29,16,60,disperser,0.5517,mf
+jj,ENK,m,Stable,93,f,41,0,44,0,1395,disperser,0.0000,mf
+jj,YNT,m,Fission,26,f,9,9,10,10,390,disperser,1.0000,mf
+jy,PHG,m,Dispersal 1,50,f,1,0,1,0,750,non-disperser,0.0000,mf
+jy,PHG,m,Dispersal 2,46,f,23,0,39,0,690,non-disperser,0.0000,mf
+jy,PHG,m,Fission,29,f,96,5,108,2,435,non-disperser,0.0185,mf
+jy,PHG,m,Stable,89,f,20,0,22,0,1335,non-disperser,0.0000,mf
+ky,ENK,f,Dispersal 2,55,f,1,0,7,0,825,disperser,0.0000,ff
+ky,YNT,f,Fission,129,f,7,0,13,0,1935,disperser,0.0000,ff
+o6,ENK,f,Dispersal 2,55,f,5,0,3,0,825,disperser,0.0000,ff
+o6,PHG,f,Dispersal 1,62,f,7,4,15,7,930,disperser,0.4667,ff
+o6,PHG,f,Stable,57,f,4,0,1,0,855,disperser,0.0000,ff
+o6,YNT,f,Fission,128,f,39,13,68,20,1920,disperser,0.2941,ff
+oa,ENK,f,Dispersal 2,56,f,15,7,28,20,840,disperser,0.7143,ff
+oa,PHG,f,Dispersal 1,68,f,11,2,22,2,1020,disperser,0.0909,ff
+oa,PHG,f,Stable,144,f,32,5,75,9,2160,disperser,0.1200,ff
+oa,YNT,f,Fission,128,f,29,11,51,28,1920,disperser,0.5490,ff
+ob,ENK,f,Dispersal 1,35,f,6,5,14,14,525,disperser,1.0000,ff
+ob,ENK,f,Dispersal 2,55,f,16,7,20,7,825,disperser,0.3500,ff
+ob,PHG,f,Dispersal 1,30,f,5,0,16,0,450,disperser,0.0000,ff
+ob,PHG,f,Stable,144,f,28,9,46,19,2160,disperser,0.4130,ff
+ob,YNT,f,Fission,129,f,35,10,56,20,1935,disperser,0.3571,ff
+oe,ENK,m,Dispersal 1,26,f,9,5,11,7,390,disperser,0.6364,mf
+oe,PHG,m,Dispersal 1,21,f,13,0,20,0,315,disperser,0.0000,mf
+oe,PHG,m,Dispersal 2,45,f,26,5,17,3,675,disperser,0.1765,mf
+oe,PHG,m,Stable,89,f,29,3,60,12,1335,disperser,0.2000,mf
+oe,YNT,m,Fission,24,f,21,12,41,32,360,disperser,0.7805,mf
+oo,ENK,f,Dispersal 1,34,f,7,3,11,7,510,disperser,0.6364,ff
+oo,ENK,f,Dispersal 2,53,f,9,5,13,3,795,disperser,0.2308,ff
+oo,PHG,f,Dispersal 1,30,f,7,0,14,0,450,disperser,0.0000,ff
+oo,PHG,f,Stable,146,f,24,2,32,2,2190,disperser,0.0625,ff
+oo,YNT,f,Fission,129,f,33,21,73,37,1935,disperser,0.5068,ff
+oy,PHG,f,Dispersal 1,68,f,4,0,9,0,1020,non-disperser,0.0000,ff
+oy,PHG,f,Dispersal 2,58,f,5,3,11,5,870,non-disperser,0.4545,ff
+oy,PHG,f,Fission,139,f,18,3,46,3,2085,non-disperser,0.0652,ff
+oy,PHG,f,Stable,142,f,10,0,16,0,2130,non-disperser,0.0000,ff
+oz,PHG,m,Dispersal 1,52,f,7,0,10,0,780,non-disperser,0.0000,mf
+oz,PHG,m,Dispersal 2,44,f,20,1,37,3,660,non-disperser,0.0811,mf
+oz,PHG,m,Fission,29,f,16,0,16,0,435,non-disperser,0.0000,mf
+oz,PHG,m,Stable,78,f,18,0,27,0,1170,non-disperser,0.0000,mf
+ph,PHG,m,Dispersal 1,53,f,2,0,4,0,795,non-disperser,0.0000,mf
+ph,PHG,m,Dispersal 2,46,f,17,0,51,0,690,non-disperser,0.0000,mf
+ph,PHG,m,Fission,28,f,45,1,90,1,420,non-disperser,0.0111,mf
+ph,PHG,m,Stable,87,f,6,0,5,0,1305,non-disperser,0.0000,mf
+pz,PHG,m,Dispersal 1,50,f,1,0,13,0,750,non-disperser,0.0000,mf
+pz,PHG,m,Dispersal 2,43,f,10,0,24,0,645,non-disperser,0.0000,mf
+pz,PHG,m,Fission,29,f,31,1,51,7,435,non-disperser,0.1373,mf
+pz,PHG,m,Stable,88,f,25,0,51,0,1320,non-disperser,0.0000,mf
+qc,ENK,f,Dispersal 1,60,f,27,0,39,0,900,non-disperser,0.0000,ff
+qc,ENK,f,Dispersal 2,57,f,27,0,41,0,855,non-disperser,0.0000,ff
+qc,ENK,f,Fission,142,f,35,0,65,0,2130,non-disperser,0.0000,ff
+qc,ENK,f,Stable,70,f,22,1,59,1,1050,non-disperser,0.0169,ff
+qn,ENK,f,Dispersal 1,58,f,37,1,73,1,870,non-disperser,0.0137,ff
+qn,ENK,f,Dispersal 2,55,f,30,0,64,0,825,non-disperser,0.0000,ff
+qn,ENK,f,Fission,140,f,52,9,108,10,2100,non-disperser,0.0926,ff
+qn,ENK,f,Stable,143,f,66,9,122,5,2145,non-disperser,0.0410,ff
+qp,ENK,f,Dispersal 1,60,f,19,0,20,0,900,non-disperser,0.0000,ff
+qp,ENK,f,Dispersal 2,58,f,14,0,15,0,870,non-disperser,0.0000,ff
+qp,ENK,f,Fission,140,f,16,5,18,3,2100,non-disperser,0.1667,ff
+qp,ENK,f,Stable,138,f,75,5,107,9,2070,non-disperser,0.0841,ff
+qz,ENK,f,Dispersal 2,34,f,12,0,17,0,510,non-disperser,0.0000,ff
+qz,ENK,f,Fission,140,f,5,1,4,1,2100,non-disperser,0.2500,ff
+s1,ENK,m,Dispersal 1,53,f,13,1,33,6,795,non-disperser,0.1818,mf
+s1,ENK,m,Dispersal 2,45,f,10,0,30,0,675,non-disperser,0.0000,mf
+s1,ENK,m,Fission,30,f,21,1,36,4,450,non-disperser,0.1111,mf
+s1,ENK,m,Stable,92,f,28,5,38,4,1380,non-disperser,0.1053,mf
+sn,ENK,m,Stable,33,f,6,5,3,3,495,disperser,1.0000,mf
+sn,PHG,m,Dispersal 1,47,f,13,0,21,0,705,disperser,0.0000,mf
+sn,PHG,m,Dispersal 2,46,f,29,1,38,1,690,disperser,0.0263,mf
+sn,PHG,m,Fission,6,f,51,14,60,23,90,disperser,0.3833,mf
+sn,PHG,m,Stable,59,f,21,19,39,34,885,disperser,0.8718,mf
+sn,YNT,m,Fission,21,f,25,24,33,32,315,disperser,0.9697,mf
+tj,YNT,f,Fission,5,f,4,1,7,1,75,disperser,0.1429,ff
+tm,PHG,f,Dispersal 1,40,f,2,0,2,0,600,non-disperser,0.0000,ff
+tp,ENK,m,Dispersal 1,52,f,75,6,108,11,780,disperser,0.1019,mf
+tp,ENK,m,Dispersal 2,44,f,31,2,53,3,660,disperser,0.0566,mf
+tp,ENK,m,Fission,30,f,75,55,119,77,450,disperser,0.6471,mf
+tp,ENK,m,Stable,90,f,115,37,154,49,1350,disperser,0.3182,mf
+tr,ENK,f,Dispersal 2,46,f,26,17,45,31,690,disperser,0.6889,ff
+tr,PHG,f,Dispersal 1,65,f,35,2,115,8,975,disperser,0.0696,ff
+tr,PHG,f,Dispersal 2,9,f,5,3,10,6,135,disperser,0.6000,ff
+tr,PHG,f,Stable,151,f,39,0,74,0,2265,disperser,0.0000,ff
+tr,YNT,f,Fission,128,f,51,24,106,68,1920,disperser,0.6415,ff
+ty,PHG,f,Dispersal 1,62,f,10,1,19,2,930,non-disperser,0.1053,ff
+ty,PHG,f,Dispersal 2,56,f,16,8,34,18,840,non-disperser,0.5294,ff
+ty,PHG,f,Fission,138,f,14,11,23,16,2070,non-disperser,0.6957,ff
+ty,PHG,f,Stable,142,f,7,0,20,0,2130,non-disperser,0.0000,ff
+ua,ENK,f,Dispersal 1,60,f,13,0,27,0,900,non-disperser,0.0000,ff
+ua,ENK,f,Dispersal 2,57,f,15,1,29,4,855,non-disperser,0.1379,ff
+ua,ENK,f,Fission,141,f,33,5,60,7,2115,non-disperser,0.1167,ff
+ua,ENK,f,Stable,144,f,51,10,91,15,2160,non-disperser,0.1648,ff
+ub,PHG,m,Fission,18,f,4,0,3,0,270,non-disperser,0.0000,mf
+ug,PHG,f,Dispersal 1,67,f,7,2,32,23,1005,non-disperser,0.7188,ff
+ug,PHG,f,Dispersal 2,55,f,25,11,39,11,825,non-disperser,0.2821,ff
+ug,PHG,f,Fission,138,f,75,5,152,5,2070,non-disperser,0.0329,ff
+ug,PHG,f,Stable,148,f,27,5,53,10,2220,non-disperser,0.1887,ff
+uj,PHG,f,Dispersal 1,65,f,17,0,16,0,975,non-disperser,0.0000,ff
+uj,PHG,f,Dispersal 2,59,f,46,11,76,16,885,non-disperser,0.2105,ff
+uj,PHG,f,Fission,136,f,110,8,154,6,2040,non-disperser,0.0390,ff
+uj,PHG,f,Stable,97,f,27,2,27,1,1455,non-disperser,0.0370,ff
+uk,ENK,f,Dispersal 1,64,f,24,0,49,0,960,non-disperser,0.0000,ff
+uk,ENK,f,Dispersal 2,58,f,15,0,34,0,870,non-disperser,0.0000,ff
+uk,ENK,f,Fission,140,f,59,8,66,17,2100,non-disperser,0.2576,ff
+uk,ENK,f,Stable,134,f,51,2,74,2,2010,non-disperser,0.0270,ff
+um,PHG,m,Fission,29,f,5,1,10,3,435,non-disperser,0.3000,mf
+un,PHG,f,Dispersal 1,62,f,19,7,34,10,930,non-disperser,0.2941,ff
+un,PHG,f,Dispersal 2,56,f,13,2,26,1,840,non-disperser,0.0385,ff
+un,PHG,f,Fission,139,f,65,7,106,14,2085,non-disperser,0.1321,ff
+un,PHG,f,Stable,147,f,58,4,145,5,2205,non-disperser,0.0345,ff
+uq,ENK,f,Fission,3,f,1,1,5,5,45,non-disperser,1.0000,ff
+ur,PHG,f,Dispersal 1,65,f,30,8,60,23,975,non-disperser,0.3833,ff
+ur,PHG,f,Dispersal 2,58,f,43,4,83,13,870,non-disperser,0.1566,ff
+ur,PHG,f,Fission,138,f,155,12,290,15,2070,non-disperser,0.0517,ff
+ur,PHG,f,Stable,147,f,31,3,34,6,2205,non-disperser,0.1765,ff
+ut,ENK,f,Dispersal 1,60,f,42,1,62,1,900,non-disperser,0.0161,ff
+ut,ENK,f,Dispersal 2,57,f,27,0,50,0,855,non-disperser,0.0000,ff
+ut,ENK,f,Fission,141,f,44,9,67,13,2115,non-disperser,0.1940,ff
+ut,ENK,f,Stable,141,f,88,20,165,28,2115,non-disperser,0.1697,ff
+uv,ENK,f,Dispersal 1,61,f,22,0,64,0,915,non-disperser,0.0000,ff
+uv,ENK,f,Dispersal 2,59,f,16,0,25,0,885,non-disperser,0.0000,ff
+uv,ENK,f,Fission,139,f,21,0,65,0,2085,non-disperser,0.0000,ff
+uv,ENK,f,Stable,144,f,50,3,76,2,2160,non-disperser,0.0263,ff
+ux,ENK,f,Dispersal 1,64,f,38,1,59,1,960,non-disperser,0.0169,ff
+ux,ENK,f,Dispersal 2,57,f,17,2,48,1,855,non-disperser,0.0208,ff
+ux,ENK,f,Fission,139,f,61,7,88,21,2085,non-disperser,0.2386,ff
+ux,PHG,f,Stable,150,f,42,35,67,62,2250,non-disperser,0.9254,ff
+uz,PHG,f,Dispersal 1,64,f,8,1,13,1,960,non-disperser,0.0769,ff
+uz,PHG,f,Dispersal 2,60,f,21,1,42,3,900,non-disperser,0.0714,ff
+uz,PHG,f,Fission,138,f,18,3,35,7,2070,non-disperser,0.2000,ff
+uz,PHG,f,Stable,152,f,29,3,53,7,2280,non-disperser,0.1321,ff
+xh,PHG,m,Fission,24,f,3,1,2,1,360,non-disperser,0.5000,mf
+yn,ENK,m,Dispersal 1,53,f,8,5,6,3,795,disperser,0.5000,mf
+yn,ENK,m,Dispersal 2,44,f,5,0,7,0,660,disperser,0.0000,mf
+yn,ENK,m,Stable,19,f,4,4,5,5,285,disperser,1.0000,mf
+yn,PHG,m,Stable,69,f,23,2,31,6,1035,disperser,0.1935,mf
+yn,YNT,m,Fission,30,f,36,14,35,21,450,disperser,0.6000,mf
+yp,PHG,f,Dispersal 1,60,f,5,0,4,0,900,non-disperser,0.0000,ff
+yp,PHG,f,Dispersal 2,57,f,6,0,18,0,855,non-disperser,0.0000,ff
+yp,PHG,f,Fission,137,f,7,0,10,0,2055,non-disperser,0.0000,ff
+yr,ENK,m,Dispersal 2,47,f,1,0,1,0,705,non-disperser,0.0000,mf
+yr,ENK,m,Fission,29,f,18,0,11,0,435,non-disperser,0.0000,mf
+yr,ENK,m,Stable,49,f,11,5,9,5,735,non-disperser,0.5556,mf
+yr,PHG,m,Stable,41,f,4,3,8,8,615,non-disperser,1.0000,mf
+yy,ENK,m,Dispersal 1,51,f,7,0,8,0,765,non-disperser,0.0000,mf
+yy,ENK,m,Dispersal 2,44,f,5,0,3,0,660,non-disperser,0.0000,mf
+yy,ENK,m,Fission,32,f,3,0,5,0,480,non-disperser,0.0000,mf
+bf,PHG,f,Dispersal 1,68,m,6,2,21,4,1020,non-disperser,0.1905,fm
+bf,PHG,f,Dispersal 2,59,m,3,0,12,0,885,non-disperser,0.0000,fm
+bf,PHG,f,Fission,138,m,22,6,59,23,2070,non-disperser,0.3898,fm
+bf,PHG,f,Stable,148,m,17,1,50,6,2220,non-disperser,0.1200,fm
+by,ENK,f,Dispersal 1,60,m,5,2,21,6,900,non-disperser,0.2857,fm
+by,ENK,f,Dispersal 2,57,m,2,1,7,1,855,non-disperser,0.1429,fm
+by,ENK,f,Stable,139,m,27,0,79,0,2085,non-disperser,0.0000,fm
+co,PHG,f,Fission,119,m,3,0,4,0,1785,non-disperser,0.0000,fm
+cr,PHG,f,Fission,84,m,1,0,7,0,1260,non-disperser,0.0000,fm
+dz,PHG,f,Dispersal 1,64,m,1,0,8,0,960,non-disperser,0.0000,fm
+dz,PHG,f,Dispersal 2,57,m,4,0,19,0,855,non-disperser,0.0000,fm
+dz,PHG,f,Fission,139,m,4,0,9,0,2085,non-disperser,0.0000,fm
+dz,PHG,f,Stable,148,m,1,0,8,0,2220,non-disperser,0.0000,fm
+fd,PHG,f,Dispersal 1,64,m,16,1,56,3,960,non-disperser,0.0536,fm
+fd,PHG,f,Dispersal 2,56,m,8,0,34,0,840,non-disperser,0.0000,fm
+fd,PHG,f,Fission,138,m,21,7,57,18,2070,non-disperser,0.3158,fm
+fd,PHG,f,Stable,147,m,5,5,11,11,2205,non-disperser,1.0000,fm
+fx,PHG,f,Dispersal 1,68,m,2,0,7,0,1020,non-disperser,0.0000,fm
+fx,PHG,f,Dispersal 2,59,m,4,0,13,0,885,non-disperser,0.0000,fm
+fx,PHG,f,Fission,139,m,17,0,69,0,2085,non-disperser,0.0000,fm
+fx,PHG,f,Stable,150,m,6,0,14,0,2250,non-disperser,0.0000,fm
+gm,PHG,f,Dispersal 1,63,m,7,0,21,0,945,non-disperser,0.0000,fm
+gm,PHG,f,Dispersal 2,56,m,8,0,13,0,840,non-disperser,0.0000,fm
+gm,PHG,f,Fission,140,m,22,4,47,13,2100,non-disperser,0.2766,fm
+gy,PHG,f,Fission,138,m,2,0,7,0,2070,non-disperser,0.0000,fm
+ky,PHG,f,Dispersal 1,10,m,4,1,16,3,150,disperser,0.1875,fm
+o6,ENK,f,Dispersal 2,55,m,6,6,8,8,825,disperser,1.0000,fm
+o6,PHG,f,Dispersal 1,62,m,10,10,19,19,930,disperser,1.0000,fm
+o6,PHG,f,Stable,57,m,15,1,41,6,855,disperser,0.1463,fm
+o6,YNT,f,Fission,128,m,1,1,1,1,1920,disperser,1.0000,fm
+oa,PHG,f,Dispersal 1,68,m,3,3,8,8,1020,disperser,1.0000,fm
+oa,PHG,f,Stable,144,m,13,5,52,16,2160,disperser,0.3077,fm
+oa,YNT,f,Fission,128,m,6,5,13,8,1920,disperser,0.6154,fm
+ob,ENK,f,Dispersal 2,55,m,4,4,11,11,825,disperser,1.0000,fm
+ob,PHG,f,Dispersal 1,30,m,4,4,8,8,450,disperser,1.0000,fm
+ob,PHG,f,Stable,144,m,6,3,27,16,2160,disperser,0.5926,fm
+oo,PHG,f,Dispersal 1,30,m,1,1,1,1,450,disperser,1.0000,fm
+oo,PHG,f,Stable,146,m,24,16,75,53,2190,disperser,0.7067,fm
+oy,PHG,f,Dispersal 1,68,m,1,1,5,5,1020,non-disperser,1.0000,fm
+oy,PHG,f,Dispersal 2,58,m,1,0,1,0,870,non-disperser,0.0000,fm
+oy,PHG,f,Fission,139,m,11,0,42,0,2085,non-disperser,0.0000,fm
+oy,PHG,f,Stable,142,m,7,5,21,15,2130,non-disperser,0.7143,fm
+qc,ENK,f,Dispersal 1,60,m,12,0,24,0,900,non-disperser,0.0000,fm
+qc,ENK,f,Dispersal 2,57,m,11,1,49,1,855,non-disperser,0.0204,fm
+qc,ENK,f,Fission,142,m,26,3,71,1,2130,non-disperser,0.0141,fm
+qc,ENK,f,Stable,70,m,3,1,6,3,1050,non-disperser,0.5000,fm
+qn,ENK,f,Dispersal 1,58,m,8,2,28,12,870,non-disperser,0.4286,fm
+qn,ENK,f,Dispersal 2,55,m,5,0,16,0,825,non-disperser,0.0000,fm
+qn,ENK,f,Fission,140,m,17,8,64,31,2100,non-disperser,0.4844,fm
+qn,ENK,f,Stable,143,m,26,2,89,7,2145,non-disperser,0.0787,fm
+qp,ENK,f,Dispersal 1,60,m,5,0,20,0,900,non-disperser,0.0000,fm
+qp,ENK,f,Dispersal 2,58,m,1,0,3,0,870,non-disperser,0.0000,fm
+qp,ENK,f,Fission,140,m,29,9,58,19,2100,non-disperser,0.3276,fm
+qp,ENK,f,Stable,138,m,40,0,93,0,2070,non-disperser,0.0000,fm
+qz,ENK,f,Fission,140,m,6,2,12,2,2100,non-disperser,0.1667,fm
+tr,ENK,f,Dispersal 2,46,m,4,4,6,6,690,disperser,1.0000,fm
+tr,PHG,f,Dispersal 1,65,m,23,19,61,40,975,disperser,0.6557,fm
+tr,PHG,f,Dispersal 2,9,m,1,0,5,0,135,disperser,0.0000,fm
+tr,PHG,f,Stable,151,m,1,0,8,0,2265,disperser,0.0000,fm
+tr,YNT,f,Fission,128,m,11,3,33,9,1920,disperser,0.2727,fm
+ty,PHG,f,Dispersal 1,62,m,7,0,27,0,930,non-disperser,0.0000,fm
+ty,PHG,f,Dispersal 2,56,m,12,0,32,0,840,non-disperser,0.0000,fm
+ty,PHG,f,Fission,138,m,16,2,84,17,2070,non-disperser,0.2024,fm
+ty,PHG,f,Stable,142,m,10,0,22,0,2130,non-disperser,0.0000,fm
+ua,ENK,f,Dispersal 1,60,m,23,3,49,14,900,non-disperser,0.2857,fm
+ua,ENK,f,Dispersal 2,57,m,13,0,49,0,855,non-disperser,0.0000,fm
+ua,ENK,f,Fission,141,m,38,4,90,13,2115,non-disperser,0.1444,fm
+ua,ENK,f,Stable,144,m,32,1,79,3,2160,non-disperser,0.0380,fm
+ug,PHG,f,Dispersal 1,67,m,13,0,47,0,1005,non-disperser,0.0000,fm
+ug,PHG,f,Dispersal 2,55,m,7,0,22,0,825,non-disperser,0.0000,fm
+ug,PHG,f,Fission,138,m,18,0,44,0,2070,non-disperser,0.0000,fm
+ug,PHG,f,Stable,148,m,5,0,21,0,2220,non-disperser,0.0000,fm
+uj,PHG,f,Dispersal 1,65,m,4,0,6,0,975,non-disperser,0.0000,fm
+uj,PHG,f,Dispersal 2,59,m,21,0,57,0,885,non-disperser,0.0000,fm
+uj,PHG,f,Fission,136,m,33,0,115,0,2040,non-disperser,0.0000,fm
+uj,PHG,f,Stable,97,m,9,0,13,0,1455,non-disperser,0.0000,fm
+uk,ENK,f,Dispersal 1,64,m,13,7,47,30,960,non-disperser,0.6383,fm
+uk,ENK,f,Dispersal 2,58,m,1,1,4,4,870,non-disperser,1.0000,fm
+uk,ENK,f,Fission,140,m,3,1,14,3,2100,non-disperser,0.2143,fm
+uk,ENK,f,Stable,134,m,19,8,59,15,2010,non-disperser,0.2542,fm
+un,PHG,f,Dispersal 1,62,m,5,2,28,18,930,non-disperser,0.6429,fm
+un,PHG,f,Dispersal 2,56,m,10,0,34,0,840,non-disperser,0.0000,fm
+un,PHG,f,Fission,139,m,12,1,30,2,2085,non-disperser,0.0667,fm
+un,PHG,f,Stable,147,m,2,1,10,6,2205,non-disperser,0.6000,fm
+ur,PHG,f,Dispersal 1,65,m,7,0,38,0,975,non-disperser,0.0000,fm
+ur,PHG,f,Dispersal 2,58,m,3,0,6,0,870,non-disperser,0.0000,fm
+ur,PHG,f,Fission,138,m,18,2,67,6,2070,non-disperser,0.0896,fm
+ur,PHG,f,Stable,147,m,13,0,43,0,2205,non-disperser,0.0000,fm
+ut,ENK,f,Dispersal 1,60,m,4,2,19,17,900,non-disperser,0.8947,fm
+ut,ENK,f,Fission,141,m,4,2,12,7,2115,non-disperser,0.5833,fm
+ut,ENK,f,Stable,141,m,27,0,91,0,2115,non-disperser,0.0000,fm
+uv,ENK,f,Dispersal 1,61,m,3,0,3,0,915,non-disperser,0.0000,fm
+uv,ENK,f,Dispersal 2,59,m,2,0,2,0,885,non-disperser,0.0000,fm
+uv,ENK,f,Fission,139,m,19,6,54,20,2085,non-disperser,0.3704,fm
+uv,ENK,f,Stable,144,m,37,0,115,0,2160,non-disperser,0.0000,fm
+ux,ENK,f,Dispersal 1,64,m,8,0,16,0,960,non-disperser,0.0000,fm
+ux,ENK,f,Fission,139,m,5,4,9,9,2085,non-disperser,1.0000,fm
+ux,PHG,f,Stable,150,m,31,25,73,59,2250,non-disperser,0.8082,fm
+uz,PHG,f,Dispersal 1,64,m,7,0,36,0,960,non-disperser,0.0000,fm
+uz,PHG,f,Dispersal 2,60,m,10,0,18,0,900,non-disperser,0.0000,fm
+uz,PHG,f,Fission,138,m,13,0,48,0,2070,non-disperser,0.0000,fm
+uz,PHG,f,Stable,152,m,9,3,28,13,2280,non-disperser,0.4643,fm
+yp,PHG,f,Dispersal 1,60,m,10,0,35,0,900,non-disperser,0.0000,fm
+yp,PHG,f,Dispersal 2,57,m,4,0,16,0,855,non-disperser,0.0000,fm
+yp,PHG,f,Fission,137,m,5,0,21,0,2055,non-disperser,0.0000,fm
